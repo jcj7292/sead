@@ -1,7 +1,7 @@
 ---
 ---
 
-# jcj7292DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# The Stochastic Engineering Analysis & Design Lab focuses on (1) incorporating knowledge from engineering analysis and design into probabilistic Machine Learning (ML) algorithm development (Physics for ML), and (2) applying ML to solve intricate problems in engineering analysis and design under uncertainties (ML for Physics).
 
 
 
