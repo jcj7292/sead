@@ -1,1 +1,1 @@
-Sitemap: https://jcj7292.github.io/sead.github.io/sitemap.xml
+Sitemap: https://jcj7292.github.io/sead/sitemap.xml
