@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@jcj7292DESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: jiechen@vt.edu
+  # orcid: 0000-0001-8713-9213
+  google-scholar: PyIE5ssAAAAJ
   github: jcj7292DESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: jcj7292DESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: jcj7292DESCRIPTION=An engaging 1-3 sentence description of your lab.
+  # twitter: jcj7292DESCRIPTION=An engaging 1-3 sentence description of your lab.
+  # youtube: jcj7292DESCRIPTION=An engaging 1-3 sentence description of your lab.
 
 ### jekyll settings
 
