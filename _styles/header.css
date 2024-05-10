@@ -104,12 +104,12 @@ nav > a:hover {
 header:not([data-big]) .title-text {
   max-width: 350px;
 }
-@media (max-width: 450px) {
+@media (max-width: 900px) {
   header:not([data-big]) .logo {
     display: none;
   }
 }
-@media (max-width: 450px) {
+@media (max-width: 900px) {
   header:not([data-big]) .subtitle {
     display: none;
   }
