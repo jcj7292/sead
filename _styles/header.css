@@ -102,7 +102,7 @@ nav > a:hover {
 }
 
 header:not([data-big]) .title-text {
-  max-width: 350px;
+  max-width: 700px;
 }
 @media (max-width: 900px) {
   header:not([data-big]) .logo {
