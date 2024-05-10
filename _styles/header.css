@@ -23,11 +23,11 @@ header a {
   gap: 10px;
   flex-basis: 0;
   flex-grow: 1;
-  max-width: 200%;
+  max-width: 100%;
 }
 
 .logo {
-  height: 40px;
+  height: 20px;
 }
 
 .logo > * {
