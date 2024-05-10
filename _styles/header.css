@@ -28,10 +28,7 @@ header a {
 
 .logo {
   height: 40px;
-}
-
-.logo > * {
-  height: 50%;
+  width: 93px;
 }
 
 .title-text {
@@ -45,6 +42,11 @@ header a {
   text-align: left;
 }
 
+@media (max-width: 300px) {
+  .title-text {
+    max-width: 170px;
+  }
+}
 .title {
   font-size: var(--large);
 }
@@ -99,6 +101,19 @@ nav > a:hover {
   color: var(--primary);
 }
 
+header:not([data-big]) .title-text {
+  max-width: 350px;
+}
+@media (max-width: 450px) {
+  header:not([data-big]) .logo {
+    display: none;
+  }
+}
+@media (max-width: 450px) {
+  header:not([data-big]) .subtitle {
+    display: none;
+  }
+}
 @media (max-width: 700px) {
   header:not([data-big]) {
     justify-content: flex-end;
@@ -129,6 +144,8 @@ header[data-big] .home {
 }
 header[data-big] .logo {
   height: 90px;
+  width: 150px;
+  margin-bottom: 20px;
 }
 header[data-big] .title-text {
   flex-direction: column;
@@ -137,6 +154,7 @@ header[data-big] .title-text {
 }
 header[data-big] .title {
   font-size: var(--xxl);
+  margin-bottom: 15px;
 }
 header[data-big] .subtitle {
   font-size: var(--large);
