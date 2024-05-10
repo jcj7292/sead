@@ -122,13 +122,13 @@ header:not([data-big]) {
     max-width: 350px;
   }
   
-  @media (max-width: 450px) {
+  @media (max-width: 900px) {
     .logo {
       display: none;
     }
   }
 
-  @media (max-width: 450px) {
+  @media (max-width: 900px) {
     .subtitle {
       display: none;
     }
