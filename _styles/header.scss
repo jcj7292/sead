@@ -2,7 +2,7 @@
 ---
 
 $logo-big: 40px;
-$logo: 40px;
+$logo: 20px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
@@ -35,7 +35,7 @@ header a {
   gap: 10px;
   flex-basis: 0;
   flex-grow: 1;
-  max-width: 200%;
+  max-width: 100%;
 }
 
 .logo {
