@@ -28,7 +28,10 @@ header a {
 
 .logo {
   height: 40px;
-  width: 93px;
+}
+
+.logo > * {
+  height: 100%;
 }
 
 .title-text {
@@ -42,11 +45,6 @@ header a {
   text-align: left;
 }
 
-@media (max-width: 600px) {
-  .title-text {
-    max-width: 400px;
-  }
-}
 .title {
   font-size: var(--large);
 }
@@ -101,19 +99,6 @@ nav > a:hover {
   color: var(--primary);
 }
 
-header:not([data-big]) .title-text {
-  max-width: 700px;
-}
-@media (max-width: 900px) {
-  header:not([data-big]) .logo {
-    display: none;
-  }
-}
-@media (max-width: 900px) {
-  header:not([data-big]) .subtitle {
-    display: none;
-  }
-}
 @media (max-width: 700px) {
   header:not([data-big]) {
     justify-content: flex-end;
@@ -143,9 +128,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 40px;
-  width: 150px;
-  margin-bottom: 20px;
+  height: 80px;
 }
 header[data-big] .title-text {
   flex-direction: column;
@@ -154,7 +137,6 @@ header[data-big] .title-text {
 }
 header[data-big] .title {
   font-size: var(--xxl);
-  margin-bottom: 15px;
 }
 header[data-big] .subtitle {
   font-size: var(--large);
