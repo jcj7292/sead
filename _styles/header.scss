@@ -1,7 +1,7 @@
 ---
 ---
 
-$logo-big: 40px;
+$logo-big: 80px;
 $logo: 40px;
 $big-padding: 100px;
 $collapse: 700px;
@@ -39,8 +39,11 @@ header a {
 }
 
 .logo {
-  height: 40px;
-  width: 93px; 
+  height: $logo;
+}
+
+.logo > * {
+  height: 100%;
 }
 
 .title-text {
@@ -53,14 +56,6 @@ header a {
   font-family: var(--title);
   text-align: left;
 }
-
-@media (max-width: 600px) {
-  .title-text {
-    max-width: 400px;
-  }
-  
-}
-
 
 .title {
   font-size: var(--large);
@@ -117,23 +112,6 @@ nav > a:hover {
 }
 
 header:not([data-big]) {
-
-  .title-text {
-    max-width: 700px;
-  }
-  
-  @media (max-width: 900px) {
-    .logo {
-      display: none;
-    }
-  }
-
-  @media (max-width: 900px) {
-    .subtitle {
-      display: none;
-    }
-  }
-  
   @media (max-width: $collapse) {
     justify-content: flex-end;
 
@@ -170,8 +148,6 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
-    width: 150px; 
-    margin-bottom: 20px;
   }
 
   .title-text {
@@ -182,8 +158,6 @@ header[data-big] {
 
   .title {
     font-size: var(--xxl);
-    margin-bottom: 15px;
-
   }
 
   .subtitle {
