@@ -89,9 +89,9 @@ Dr. Jie Chen is an Assistant Professor in Mechanical Engineering at Virginia Tec
 {% endfor %}
 
 
-<a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">
+<a style="text-decoration: none; color: inherit;" href="/sead/members/jie-chen.html">
 Dr. Jie Chen is an Assistant Professor in Mechanical Engineering at Virginia Tech. He was a Postdoctoral Fellow in Mechanical Engineering at Northwestern University (IDEAL Lab) after gaining PhD from Mechanical Engineering at Arizona State University (PARA Lab). His research focuses on physics-based uncertainty-aware data-driven analysis and design under uncertainty applied in advanced manufacturing, advanced materials systems, and fatigue & fracture. &nbsp;&nbsp;&nbsp;
- <a href="/members/angeloudis-p.html">(more)</a>
+ <a href="/sead/members/jie-chen.html">(more)</a>
 
 
 
