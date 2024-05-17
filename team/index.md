@@ -22,7 +22,7 @@ nav:
 
   <!-- Name & Role -->
   <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Jie Chen </div> <br>
-  <div class="text-center" style="margin-top: -10px"> Assistant Professor </div> <br>
+  <!-- <div class="text-center" style="margin-top: -10px"> Assistant Professor </div> <br> -->
 </a>
 
 
