@@ -53,8 +53,8 @@ Dr. Jie Chen is an Assistant Professor in Mechanical Engineering at Virginia Tec
 
 
   <div class="portrait-wrapper">
-    <a href="/sead/members/jane-smith.html" class="portrait" data-style="" aria-label="Jane Smith">
-      <img src="/sead/images/team/jie-chen.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/sead/images/fallback.svg'; this.onerror = null;">
+    <a href="/members/jane-smith.html" class="portrait" data-style="" aria-label="Jane Smith">
+      <img src="/images/team/jie-chen.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   
       
         <span class="portrait-text">
