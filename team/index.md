@@ -48,6 +48,7 @@ Dr. Jie Chen is an Assistant Professor in Mechanical Engineering at Virginia Tec
 
 
 {% include section.html %}
+# Principle Investigator
 
 {% capture floatcontent %}
 
