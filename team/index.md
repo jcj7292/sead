@@ -16,7 +16,7 @@ nav:
 
   <!-- Avatar -->
   <img src="/images/team/jie_chen.jpg"
-       style=" max-width: 180px; "
+       style=" max-width: 200px; "
        class="portrait-image"
        />
 
