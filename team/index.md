@@ -20,8 +20,8 @@ nav:
 %}
 
  <!-- Name & Role -->
-  <div class="text-center" style="margin-top:0px; font-weight: var(--bold); font-size: 1.1rem" > Jie Chen <br>
-  <div class="text-center" style="margin-top: -50px"> Assistant Professor  </div> <br>
+  <div class="text-center" style="margin-top:0px; font-weight: var(--bold); font-size: 1.1rem" > Jie Chen </div> 
+  <div class="text-center" style="margin-top: -10px"> Assistant Professor  </div> <br>
 
 {% endcapture %}
 
