@@ -9,13 +9,19 @@ nav:
 <!-- <h1><a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">Director</a></h1> -->
 # Principle Investigator
 {% capture floatcontent %}
+
   <!-- Avatar -->
   {%
   include figure.html
   image="images/team/jie-chen.jpg"
   link="team"
-  width="200px"
+  width="180px"
+  class="portrait-image"
 %}
+
+ <!-- Name & Role -->
+  <div class="text-center" style="margin-top:0px; font-weight: var(--bold); font-size: 1.2rem" > Jie Chen
+
 {% endcapture %}
 
 {% include float.html content=floatcontent %}
