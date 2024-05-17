@@ -15,7 +15,7 @@ nav:
 <!-- <a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html"> -->
 
   <!-- Avatar -->
-  <-- {%
+  <!-- {%
   include figure.html
   image="images/team/jie-chen.jpg"
   link="team"
@@ -25,9 +25,9 @@ nav:
   {%
     include portrait.html
     lookup="jane-smith"
-    <-- name: Jie Chen -->
-    <-- image: images/team/jie-chen.jpg -->
-    <-- description: Assistant Professor -->
+    <!-- name: Jie Chen -->
+    <!-- image: images/team/jie-chen.jpg -->
+    <!-- description: Assistant Professor -->
   %}
   
   
