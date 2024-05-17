@@ -4,10 +4,10 @@ nav:
   order: 4
   tooltip: About our team
 ---
-
+# Team
 
 <!-- <h1><a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">Director</a></h1> -->
-# Principle Investigator
+## Principle Investigator
 {% capture floatcontent %}
 
   <!-- Avatar -->
@@ -48,7 +48,7 @@ Dr. Jie Chen is an Assistant Professor in Mechanical Engineering at Virginia Tec
 
 
 {% include section.html %}
-# Principle Investigator
+## Principle Investigator
 
 {% capture floatcontent %}
 
