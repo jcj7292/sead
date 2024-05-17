@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-<h1><a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">Director</a></h1>
+<! --- <h1><a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">Director</a></h1>
 
 
 {% capture floatcontent %}
