@@ -15,10 +15,20 @@ nav:
 <a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">
 
   <!-- Avatar -->
-  <img src="/images/team/jie_chen.jpg"
+  {%
+  include figure.html
+  image="images/team/jie_chen.jpg"
+  caption="The team at our annual Christmas party, 2025"
+  link="team"
+  width="400px"
+%}
+  
+  
+  
+ <!--  <img src="/images/team/jie_chen.jpg"
        style=" max-width: 200px; "
        class="portrait-image"
-       />
+       /> -->
 
   <!-- Name & Role -->
   <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Jie Chen </div> <br>
