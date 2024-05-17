@@ -7,9 +7,48 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<h1><a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">Director</a></h1>
+
+
+{% capture floatcontent %}
+
+<div class="text-center mt-5">
+<a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">
+
+  <!-- Avatar -->
+  <img src="/images/team/angeloudis-p.jpg"
+       style=" max-width: 200px; "
+       class="portrait-image"
+       />
+
+  <!-- Name & Role -->
+  <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Panagiotis Angeloudis </div> <br>
+  <div class="text-center" style="margin-top: -10px"> Associate Professor (Reader) </div> <br>
+</a>
+
+
+</div>
+
+{% endcapture %}
+
+{% include float.html content=floatcontent %}
+
+
+{% assign member = site.members | where: "slug", "angeloudis-p" | first %}
+
+{% for affiliation in member.affiliations %}
+<p style="margin: 0.1px; "> -  {{ affiliation }} </p>
+{% endfor %}
+
+
+<a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">
+Dr Panagiotis Angeloudis  is Reader in Transport Systems & Logistics </a>  at the **Centre for Transport Engineering & Modelling** (CTEM) and the **Department of Civil & Environmental Engineering** at **Imperial College London**. His research focuses on the intersection of vehicle autonomy, multi-agent systems modelling, network optimisation and their applications to fleet operations, freight and maritime transport. &nbsp;&nbsp;&nbsp;
+ <a href="/members/angeloudis-p.html">(more)</a>
+
+
+
+
+ 
 
 {% include section.html %}
 
@@ -47,44 +86,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 
 
-<h1><a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">Director</a></h1>
 
-
-
-{% capture floatcontent %}
-
-<div class="text-center mt-5">
-<a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">
-
-  <!-- Avatar -->
-  <img src="/images/team/angeloudis-p.jpg"
-       style=" max-width: 200px; "
-       class="portrait-image"
-       />
-
-  <!-- Name & Role -->
-  <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Panagiotis Angeloudis </div> <br>
-  <div class="text-center" style="margin-top: -10px"> Associate Professor (Reader) </div> <br>
-</a>
-
-
-</div>
-
-{% endcapture %}
-
-{% include float.html content=floatcontent %}
-
-
-{% assign member = site.members | where: "slug", "angeloudis-p" | first %}
-
-{% for affiliation in member.affiliations %}
-<p style="margin: 0.1px; "> -  {{ affiliation }} </p>
-{% endfor %}
-
-
-<a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">
-Dr Panagiotis Angeloudis  is Reader in Transport Systems & Logistics </a>  at the **Centre for Transport Engineering & Modelling** (CTEM) and the **Department of Civil & Environmental Engineering** at **Imperial College London**. His research focuses on the intersection of vehicle autonomy, multi-agent systems modelling, network optimisation and their applications to fleet operations, freight and maritime transport. &nbsp;&nbsp;&nbsp;
- <a href="/members/angeloudis-p.html">(more)</a>
 
 
 
