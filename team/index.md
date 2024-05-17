@@ -11,8 +11,8 @@ nav:
 
 {% capture floatcontent %}
 
-<div class="text-center mt-5">
-<a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">
+<!-- <div class="text-center mt-5"> -->
+<!-- <a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html"> -->
 
   <!-- Avatar -->
   {%
