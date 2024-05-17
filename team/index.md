@@ -9,63 +9,7 @@ nav:
 <!-- <h1><a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">Director</a></h1> -->
 # Principle Investigator
 
-{% capture floatcontent %}
 
-<!-- <div class="text-center mt-5"> -->
-<!-- <a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html"> -->
-
-  <!-- Avatar -->
-  {%
-  include figure.html
-  image="images/team/jie-chen.jpg"
-  link="team"
-  width="200px"
-%}
-
-  <!-- {%
-    include portrait.html
-    lookup="jane-smith"
-    name: Jie Chen
-    image: images/team/jie-chen.jpg
-    description: Assistant Professor
-  %} -->
-  
-  
-  
- <!--  <img src="/images/team/jie_chen.jpg"
-       style=" max-width: 200px; "
-       class="portrait-image"
-       /> -->
-
-  <!-- Name & Role -->
-  <div class="text-center" style="margin-top:0px; font-weight: var(--bold); font-size: 1.2rem" > Jie Chen </div> <br>
-  <!-- <div class="text-center" style="margin-top: -10px"> Assistant Professor </div> <br> -->
-</a>
-
-
-</div>
-
-{% endcapture %}
-
-{% include float.html content=floatcontent %}
-
-
-{% assign member = site.members | where: "slug", "angeloudis-p" | first %}
-
-{% for affiliation in member.affiliations %}
-<p style="margin: 0.1px; "> -  {{ affiliation }} </p>
-{% endfor %}
-
-
-<a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">
-Dr. Jie Chen is an Assistant Professor in Mechanical Engineering at Virginia Tech. He was a Postdoctoral Fellow in Mechanical Engineering at Northwestern University (IDEAL Lab) after gaining PhD from Mechanical Engineering at Arizona State University (PARA Lab). His research focuses on physics-based uncertainty-aware data-driven analysis and design under uncertainty applied in advanced manufacturing, advanced materials systems, and fatigue & fracture. &nbsp;&nbsp;&nbsp;
- <a href="/members/angeloudis-p.html">(more)</a>
-
-
-
-
-
-{% include section.html %}
  
 # Team
 
