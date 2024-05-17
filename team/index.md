@@ -11,12 +11,11 @@ nav:
 {% capture floatcontent %}
   <!-- Avatar -->
   {%
-    include portrait.html
-    lookup="jane-smith"
-    name: Jie Chen
-    image: images/team/jie-chen.jpg
-    description: Assistant Professor
-  %}
+  include figure.html
+  image="images/team/jie-chen.jpg"
+  link="team"
+  width="200px"
+%}
 {% endcapture %}
 
 {% include float.html content=floatcontent %}
