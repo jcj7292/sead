@@ -1,10 +1,10 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Jie Chen
+image: images/team/jie-chen.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - J. Chen
+  - J Chen
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
