@@ -108,7 +108,7 @@ Dr. Jie Chen is an Assistant Professor in Mechanical Engineering at Virginia Tec
 
 
 {% include section.html %}
-# Team
+## Research Team
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
@@ -150,7 +150,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-# Research Team
+## Research Team
 
 
 {% include list.html data="members" component="portrait" filters="role: senior" %}
@@ -158,13 +158,13 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-# Alumni
+## Alumni
 
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
 
 {% include section.html %}
 
-# Visiting Researchers
+## Visiting Researchers
 
 - **Luciano Greco**,  University of Padova
 - **Kenta Matsui**, Komatsu Corporation
