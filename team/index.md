@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-<! --- <h1><a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">Director</a></h1>
 
+<!-- <h1><a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">Director</a></h1> -->
 
 {% capture floatcontent %}
 
@@ -23,7 +23,7 @@ nav:
 
   <!-- Name & Role -->
   <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Panagiotis Angeloudis </div> <br>
-  <div class="text-center" style="margin-top: -10px"> Associate Professor (Reader) </div> <br>
+  <div class="text-center" style="margin-top: -10px"> Principle Investigator (Reader) </div> <br>
 </a>
 
 
