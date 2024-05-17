@@ -7,7 +7,7 @@ nav:
 
 
 <!-- <h1><a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">Director</a></h1> -->
-# Principle Investigator
+# {% include icon.html icon="fa-solid fa-users" %}Team
 
 {% capture floatcontent %}
 
@@ -47,9 +47,10 @@ Dr Panagiotis Angeloudis  is Reader in Transport Systems & Logistics </a>  at th
 
 
 
+
+{% include section.html %}
  
 # {% include icon.html icon="fa-solid fa-users" %}Team
-{% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
