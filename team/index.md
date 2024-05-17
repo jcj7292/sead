@@ -15,13 +15,13 @@ nav:
 <a style="text-decoration: none; color: inherit;" href="/members/angeloudis-p.html">
 
   <!-- Avatar -->
-  <img src="/images/team/angeloudis-p.jpg"
-       style=" max-width: 150px; "
+  <img src="/images/team/jie_chen.jpg"
+       style=" max-width: 180px; "
        class="portrait-image"
        />
 
   <!-- Name & Role -->
-  <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Panagiotis Angeloudis </div> <br>
+  <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Jie Chen </div> <br>
   <div class="text-center" style="margin-top: -10px"> Assistant Professor </div> <br>
 </a>
 
