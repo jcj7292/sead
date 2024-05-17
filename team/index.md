@@ -16,13 +16,13 @@ nav:
 
   <!-- Avatar -->
   <img src="/images/team/angeloudis-p.jpg"
-       style=" max-width: 200px; "
+       style=" max-width: 150px; "
        class="portrait-image"
        />
 
   <!-- Name & Role -->
   <div class="text-center" style="margin-top: 10px; font-weight: var(--bold); font-size: 1.2rem" > Panagiotis Angeloudis </div> <br>
-  <div class="text-center" style="margin-top: -10px"> Principle Investigator (Reader) </div> <br>
+  <div class="text-center" style="margin-top: -10px"> Assistant Professor </div> <br>
 </a>
 
 
