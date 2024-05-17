@@ -61,14 +61,14 @@ Dr. Jie Chen is an Assistant Professor in Mechanical Engineering at Virginia Tec
         <span class="portrait-text">
           
             <span class="portrait-name">
-              Jane Smith
+              Jie Chen
             </span>
           
   
           
             <span class="portrait-role">
               
-              <i class="icon fa-solid fa-microscope"></i>
+              <!-- <i class="icon fa-solid fa-microscope"></i> -->
               <span>Principal Investigator</span>
             </span>
           
