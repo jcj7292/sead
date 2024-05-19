@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-
+{% include section.html %}
 ## Alumni
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alumni" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alumni" style="small" %}
