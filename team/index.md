@@ -72,8 +72,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 ## Alumni
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alumni" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alumni" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: master, group: alumni" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alumni" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: alumni" style="small" %}
 
 
 
