@@ -8,8 +8,8 @@ aliases:
 links:
   home-page: https://janesmith.com
   google-scholar: PyIE5ssAAAAJ&hl
-  linkedin: https://www.linkedin.com/in/jie-chen-jcj7292/
-  github: https://github.com/jcj7292
+  linkedin: jie-chen-jcj7292
+  github: jcj7292
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
