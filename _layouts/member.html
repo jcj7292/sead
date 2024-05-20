@@ -6,16 +6,9 @@ layout: default
   <a href="/sead/team">
     Team
   </a>
-/ {{ page.name | default: page.title }}
+ / {{ page.name | default: page.title }}
 </p>
 
-
-<nav aria-label="breadcrumb" class="breadcrumb">
-  <ol class="breadcrumb px-0">
-      <li class="breadcrumb-item"><a href="/sead/team">Team</a></li>
-      <li class="breadcrumb-item active" aria-current="page">{{ page.name | default: page.title }}</li>
-  </ol>
-</nav>
 
 
 {% capture floatcontent %}
