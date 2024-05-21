@@ -10,6 +10,7 @@ links:
   google-scholar: PyIE5ssAAAAJ&hl
   linkedin: jie-chen-jcj7292
   github: jcj7292
+  email: jiechen@vt.edu
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
