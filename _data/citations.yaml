@@ -1,174 +1,474 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.addma.2024.104216
+  title: Image-based study on fatigue crack initiation mechanism of Ti-6Al-4V fabricated
+    by laser-based powder bed fusion
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Changyu Meng
+  - Jie Chen
+  - Luke Hase
+  - Yongming Liu
+  publisher: Additive Manufacturing
+  date: '2024-05-01'
+  link: https://doi.org/gtwgrk
+  orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.48550/arXiv.2404.12445
+  title: Adaptive Catalyst Discovery Using Multicriteria Bayesian Optimization with
+    Representation Learning
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Jie Chen
+  - Pengfei Ou
+  - Yuxin Chang
+  - Hengrui Zhang
+  - Xiao-Yan Li
+  - Edward H. Sargent
+  - Wei Chen
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/gtwgrm
+  orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.ijfatigue.2024.108167
+  title: "Data-driven approaches for fatigue prediction of Ti\u20136Al\u20134V parts\
+    \ fabricated by laser powder bed fusion"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Rakesh Balamurugan
+  - Jie Chen
+  - Changyu Meng
+  - Yongming Liu
+  publisher: International Journal of Fatigue
+  date: '2024-05-01'
+  link: https://doi.org/gtwgrn
+  orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.48550/arXiv.2402.17718
+  title: 'Towards a Digital Twin Framework in Additive Manufacturing: Machine Learning
+    and Bayesian Optimization for Time Series Process Optimization'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Vispi Karkaria
+  - Anthony Goeckner
+  - Rujing Zha
+  - Jie Chen
+  - Jianjing Zhang
+  - Qi Zhu
+  - Jian Cao
+  - Robert X. Gao
+  - Wei Chen
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/gtwgrq
+  orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.jmsy.2024.04.023
+  title: 'Towards a digital twin framework in additive manufacturing: Machine learning
+    and bayesian optimization for time series process optimization'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Vispi Karkaria
+  - Anthony Goeckner
+  - Rujing Zha
+  - Jie Chen
+  - Jianjing Zhang
+  - Qi Zhu
+  - Jian Cao
+  - Robert X. Gao
+  - Wei Chen
+  publisher: Journal of Manufacturing Systems
+  date: '2024-05-01'
+  link: https://doi.org/gtwgrr
+  orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1073/pnas.2309240120
+  title: Automated crystal system identification from electron diffraction patterns
+    using multiview opinion fusion machine learning
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Jie Chen
+  - Hengrui Zhang
+  - Carolin B. Wahl
+  - Wei Liu
+  - Chad A. Mirkin
+  - Vinayak P. Dravid
+  - Daniel W. Apley
+  - Wei Chen
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2023-11-09'
+  link: https://doi.org/gtwgrs
+  orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.ijfatigue.2023.107914
+  title: Crack growth-based life prediction for additively manufactured metallic materials
+    considering surface roughness
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Kaushik Kethamukkala
+  - Changyu Meng
+  - Jie Chen
+  - Yongming Liu
+  publisher: International Journal of Fatigue
+  date: '2023-11-01'
+  link: https://doi.org/gtwgrt
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26434/chemrxiv-2023-38666
+  title: Automated crystal system identification from electron diffraction patterns
+    using multiview opinion fusion machine learning
+  authors:
+  - Jie Chen
+  - Hengrui Zhang
+  - Carolin Wahl
+  - Wei Liu
+  - Chad Mirkin
+  - Vinayak Dravid
+  - Daniel Apley
+  - Wei Chen
+  publisher: American Chemical Society (ACS)
+  date: '2023-05-02'
+  link: https://doi.org/gtwgrv
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2139/ssrn.4592317
+  title: Image-Based Study on Fatigue Crack Initiation Mechanism of Ti-6al-4v Fabricated
+    by Laser Powder Bed Fusion
+  authors:
+  - Changyu Meng
+  - Jie Chen
+  - Luke Hase
+  - Yongming Liu
+  publisher: Elsevier BV
+  date: '2023-01-01'
+  link: https://doi.org/gtwgrw
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2312.16473
+  title: 'MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling'
+  authors:
+  - Hengrui Zhang
+  - Jie Chen
+  - James M. Rondinelli
+  - Wei Chen
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gtwgrx
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsta.2022.0405
+  title: 'Neural optimization machine: a neural network approach for optimization
+    and its application in additive manufacturing with physics-guided learning'
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: 'Philosophical Transactions of the Royal Society A: Mathematical, Physical
+    and Engineering Sciences'
+  date: '2023-09-25'
+  link: https://doi.org/gtwgrz
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/ssdm2023-104976
+  title: Probabilistic Fatigue Data Analysis Using Physics-Guided Mixture Density
+    Networks
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: ASME 2023 Aerospace Structures, Structural Dynamics, and Materials Conference
+  date: '2023-06-19'
+  link: https://doi.org/gtwgr2
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2514/6.2022-2144
+  title: Convolutional Neural Networks for Multi-fidelity Data Aggregation
+  authors:
+  - Jie Chen
+  - Yi Gao
+  - Yongming Liu
+  publisher: AIAA SCITECH 2022 Forum
+  date: '2022-01-03'
+  link: https://doi.org/gtwgr3
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.2c19309
+  title: Crack Surface Analysis of Elastomers Using Transfer Learning
+  authors:
+  - Umar Farooq Ghumman
+  - Qihua Chen
+  - "Vincent E. D\u2019Angelo"
+  - Michael Clark
+  - Jie Chen
+  - Kenneth R. Shull
+  - Wei Chen
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2023-03-07'
+  link: https://doi.org/gtwgr4
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/1.4051799
+  title: "Data-Driven Sensitivity Analysis for Static Mechanical Properties of Additively\
+    \ Manufactured Ti\u20136Al\u20134V"
+  authors:
+  - Antriksh Sharma
+  - Jie Chen
+  - Evan Diewald
+  - Anahita Imanian
+  - Jack Beuth
+  - Yongming Liu
+  publisher: 'ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part
+    B: Mechanical Engineering'
+  date: '2021-08-27'
+  link: https://doi.org/gtwgr5
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ffe.13591
+  title: "Energy\u2010based time derivative damage accumulation model under uniaxial\
+    \ and multiaxial random loadings"
+  authors:
+  - "Shih\u2010Chuan Tien"
+  - Haoyang Wei
+  - Jie Chen
+  - Yongming Liu
+  publisher: Fatigue &amp; Fracture of Engineering Materials &amp; Structures
+  date: '2021-10-11'
+  link: https://doi.org/gtwgr6
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ffe.13640
+  title: 'Fatigue modeling using neural networks: A comprehensive review'
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: Fatigue &amp; Fracture of Engineering Materials &amp; Structures
+  date: '2022-01-07'
+  link: https://doi.org/gtwgr7
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cma.2021.114490
+  title: Multi-fidelity Data Aggregation using Convolutional Neural Networks
+  authors:
+  - Jie Chen
+  - Yi Gao
+  - Yongming Liu
+  publisher: Computer Methods in Applied Mechanics and Engineering
+  date: '2022-03-01'
+  link: https://doi.org/gn4nk3
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00158-022-03443-2
+  title: Multi-fidelity neural optimization machine for Digital Twins
+  authors:
+  - Jie Chen
+  - Changyu Meng
+  - Yi Gao
+  - Yongming Liu
+  publisher: Structural and Multidisciplinary Optimization
+  date: '2022-11-16'
+  link: https://doi.org/gtjb39
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2208.03897
+  title: 'Neural Optimization Machine: A Neural Network Approach for Optimization'
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gtwgr8
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ress.2022.108823
+  title: Physics-guided mixture density networks for uncertainty quantification
+  authors:
+  - Jie Chen
+  - Yang Yu
+  - Yongming Liu
+  publisher: Reliability Engineering &amp; System Safety
+  date: '2022-12-01'
+  link: https://doi.org/gssghb
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfatigue.2021.106685
+  title: Subcycle fatigue crack growth and equivalent initial flaw size model for
+    fatigue life assessment under arbitrary loadings for Al-7075
+  authors:
+  - Sushant Shivankar
+  - Jie Chen
+  - Yongming Liu
+  publisher: International Journal of Fatigue
+  date: '2022-03-01'
+  link: https://doi.org/gtwgr9
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.addma.2021.101876
+  title: Fatigue property prediction of additively manufactured Ti-6Al-4V using probabilistic
+    physics-guided learning
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: Additive Manufacturing
+  date: '2021-03-01'
+  link: https://doi.org/ghxnpk
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/IMECE2021-72865
+  title: Imaging-Based Fatigue Mechanism Investigation of Additively Manufactured
+    Ti-6Al-4V
+  authors:
+  - Jie Chen
+  - Changyu Meng
+  - Yongming Liu
+  publisher: 'Volume 3: Advanced Materials: Design, Processing, Characterization,
+    and Applications'
+  date: '2021-11-01'
+  link: https://doi.org/gtwgsb
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.eswa.2020.114316
+  title: Probabilistic physics-guided machine learning for fatigue data analysis
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: Expert Systems with Applications
+  date: '2021-04-01'
+  link: https://doi.org/gtwgsc
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/IMECE2020-23411
+  title: Bayesian Information Fusion of Multmodality Nondestructive Measurements for
+    Probabilistic Mechanical Property Estimation
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: 'Volume 14: Safety Engineering, Risk, and Reliability Analysis'
+  date: '2020-11-16'
+  link: https://doi.org/gtwgsd
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfatigue.2019.105462
+  title: Multiaxial high-cycle fatigue life prediction under random spectrum loadings
+  authors:
+  - Haoyang Wei
+  - Patricio Carrion
+  - Jie Chen
+  - Anahita Imanian
+  - Nima Shamsaei
+  - Nagaraja Iyyer
+  - Yongming Liu
+  publisher: International Journal of Fatigue
+  date: '2020-05-01'
+  link: https://doi.org/gtwgsf
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2514/6.2020-1653
+  title: Multimodality data fusion for probabilistic strength estimation of aging
+    materials using Bayesian networks
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: AIAA Scitech 2020 Forum
+  date: '2020-01-05'
+  link: https://doi.org/gtwgsg
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfatigue.2020.105842
+  title: Piecewise stochastic rainflow counting for probabilistic linear and nonlinear
+    damage accumulation considering loading and material uncertainties
+  authors:
+  - Jie Chen
+  - Anahita Imanian
+  - Haoyang Wei
+  - Nagaraja Iyyer
+  - Yongming Liu
+  publisher: International Journal of Fatigue
+  date: '2020-11-01'
+  link: https://doi.org/gtwgsh
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.strusafe.2020.101995
+  title: Probabilistic bulk property estimation using multimodality surface non-destructive
+    measurements for vintage pipes
+  authors:
+  - Jie Chen
+  - Daniel Ersoy
+  - Yongming Liu
+  publisher: Structural Safety
+  date: '2020-11-01'
+  link: https://doi.org/gtwgsj
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijfatigue.2020.105511
+  title: Uncertainty quantification of fatigue S-N curves with sparse data using hierarchical
+    Bayesian data augmentation
+  authors:
+  - Jie Chen
+  - Siying Liu
+  - Wei Zhang
+  - Yongming Liu
+  publisher: International Journal of Fatigue
+  date: '2020-05-01'
+  link: https://doi.org/gtwgsk
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2514/6.2020-0680
+  title: Uncertainty quantification of fatigue properties with sparse data using hierarchical
+    Bayesian model
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: AIAA Scitech 2020 Forum
+  date: '2020-01-05'
+  link: https://doi.org/gtwgsm
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36001/phmconf.2019.v11i1.917
+  title: Multimodality Information Fusion for Aging Pipe Strength and Toughness Estimation
+    Using Bayesian Networks
+  authors:
+  - Yongming Liu
+  - Jie Chen
+  publisher: Annual Conference of the PHM Society
+  date: '2019-09-22'
+  link: https://doi.org/gtwgsn
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.36001/phmconf.2019.v11i1.817
+  title: Probabilistic Aging Pipe Strength Estimation Using Multimodality Information
+    Fusion
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: Annual Conference of the PHM Society
+  date: '2019-09-22'
+  link: https://doi.org/gtwgsp
+  orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +484,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +500,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
