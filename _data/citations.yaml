@@ -28,8 +28,8 @@
   date: '2024-01-26'
   link: https://doi.org/gtwh37
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1115/1.4063761
   title: "A Machine Learning\u2013Based Tire Life Prediction Framework for Increasing\
     \ Life of Commercial Vehicle Tires"
@@ -44,8 +44,8 @@
   date: '2023-11-13'
   link: https://doi.org/gtwh39
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2404.12445
   title: Adaptive Catalyst Discovery Using Multicriteria Bayesian Optimization with
     Representation Learning
@@ -61,8 +61,8 @@
   date: '2024-01-01'
   link: https://doi.org/gtwgrm
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ijfatigue.2024.108167
   title: "Data-driven approaches for fatigue prediction of Ti\u20136Al\u20134V parts\
     \ fabricated by laser powder bed fusion"
@@ -75,8 +75,8 @@
   date: '2024-05-01'
   link: https://doi.org/gtwgrn
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2402.17718
   title: 'Towards a Digital Twin Framework in Additive Manufacturing: Machine Learning
     and Bayesian Optimization for Time Series Process Optimization'
@@ -94,8 +94,8 @@
   date: '2024-01-01'
   link: https://doi.org/gtwgrq
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jmsy.2024.04.023
   title: 'Towards a digital twin framework in additive manufacturing: Machine learning
     and bayesian optimization for time series process optimization'
@@ -113,8 +113,8 @@
   date: '2024-05-01'
   link: https://doi.org/gtwgrr
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.2309240120
   title: Automated crystal system identification from electron diffraction patterns
     using multiview opinion fusion machine learning
@@ -131,8 +131,8 @@
   date: '2023-11-09'
   link: https://doi.org/gtwgrs
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ijfatigue.2023.107914
   title: Crack growth-based life prediction for additively manufactured metallic materials
     considering surface roughness
@@ -145,8 +145,8 @@
   date: '2023-11-01'
   link: https://doi.org/gtwgrt
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/micmic/ozad067.972
   title: Automated Crystal System Identification from Four-dimensional Scanning Transmission
     Electron Microscopy Data Using Brain-inspired Artificial Intelligence
@@ -165,8 +165,8 @@
   date: '2023-07-22'
   link: https://doi.org/gtwh4b
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.26434/chemrxiv-2023-38666
   title: Automated crystal system identification from electron diffraction patterns
     using multiview opinion fusion machine learning
@@ -183,8 +183,8 @@
   date: '2023-05-02'
   link: https://doi.org/gtwgrv
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.2514/6.2023-2545
   title: Multi-Fidelity Data Aggregation for Information Fusion in Simulation and
     Experiment
@@ -197,8 +197,8 @@
   date: '2023-01-19'
   link: https://doi.org/gtwh4c
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.2139/ssrn.4592317
   title: Image-Based Study on Fatigue Crack Initiation Mechanism of Ti-6al-4v Fabricated
     by Laser Powder Bed Fusion
@@ -211,8 +211,8 @@
   date: '2023-01-01'
   link: https://doi.org/gtwgrw
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2312.16473
   title: 'MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling'
   authors:
@@ -224,8 +224,8 @@
   date: '2023-01-01'
   link: https://doi.org/gtwgrx
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1098/rsta.2022.0405
   title: 'Neural optimization machine: a neural network approach for optimization
     and its application in additive manufacturing with physics-guided learning'
@@ -237,8 +237,8 @@
   date: '2023-09-25'
   link: https://doi.org/gtwgrz
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1115/ssdm2023-104976
   title: Probabilistic Fatigue Data Analysis Using Physics-Guided Mixture Density
     Networks
@@ -249,8 +249,8 @@
   date: '2023-06-19'
   link: https://doi.org/gtwgr2
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.2514/6.2022-2144
   title: Convolutional Neural Networks for Multi-fidelity Data Aggregation
   authors:
@@ -261,8 +261,8 @@
   date: '2022-01-03'
   link: https://doi.org/gtwgr3
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/ffe.13591
   title: "Energy\u2010based time derivative damage accumulation model under uniaxial\
     \ and multiaxial random loadings"
@@ -275,8 +275,8 @@
   date: '2021-10-11'
   link: https://doi.org/gtwgr6
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acsami.2c19309
   title: Crack Surface Analysis of Elastomers Using Transfer Learning
   authors:
@@ -291,8 +291,8 @@
   date: '2023-03-07'
   link: https://doi.org/gtwgr4
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1115/1.4051799
   title: "Data-Driven Sensitivity Analysis for Static Mechanical Properties of Additively\
     \ Manufactured Ti\u20136Al\u20134V"
@@ -308,8 +308,8 @@
   date: '2021-08-27'
   link: https://doi.org/gtwgr5
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/ffe.13640
   title: 'Fatigue modeling using neural networks: A comprehensive review'
   authors:
@@ -319,8 +319,8 @@
   date: '2022-01-07'
   link: https://doi.org/gtwgr7
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cma.2021.114490
   title: Multi-fidelity Data Aggregation using Convolutional Neural Networks
   authors:
@@ -331,8 +331,8 @@
   date: '2022-03-01'
   link: https://doi.org/gn4nk3
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00158-022-03443-2
   title: Multi-fidelity neural optimization machine for Digital Twins
   authors:
@@ -344,8 +344,8 @@
   date: '2022-11-16'
   link: https://doi.org/gtjb39
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2208.03897
   title: 'Neural Optimization Machine: A Neural Network Approach for Optimization'
   authors:
@@ -355,8 +355,8 @@
   date: '2022-01-01'
   link: https://doi.org/gtwgr8
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ress.2022.108823
   title: Physics-guided mixture density networks for uncertainty quantification
   authors:
@@ -367,8 +367,8 @@
   date: '2022-12-01'
   link: https://doi.org/gssghb
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ijfatigue.2021.106685
   title: Subcycle fatigue crack growth and equivalent initial flaw size model for
     fatigue life assessment under arbitrary loadings for Al-7075
@@ -380,8 +380,8 @@
   date: '2022-03-01'
   link: https://doi.org/gtwgr9
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1155/2021/4632152
   title: Bayesian Fatigue Life Prediction of Corroded Steel Reinforcing Bars
   authors:
@@ -395,8 +395,8 @@
   date: '2021-12-28'
   link: https://doi.org/gtwh4d
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ijthermalsci.2021.107045
   title: 'Thermal conductivity of metal coated polymer foam: Integrated experimental
     and modeling study'
@@ -412,8 +412,8 @@
   date: '2021-11-01'
   link: https://doi.org/gj4jsp
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.2514/6.2021-1242
   title: Physics-guided machine learning for multi-factor fatigue analysis and uncertainty
     quantification
@@ -424,8 +424,8 @@
   date: '2021-01-04'
   link: https://doi.org/gtwh4f
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.addma.2021.101876
   title: Fatigue property prediction of additively manufactured Ti-6Al-4V using probabilistic
     physics-guided learning
@@ -436,8 +436,8 @@
   date: '2021-03-01'
   link: https://doi.org/ghxnpk
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1115/IMECE2021-72865
   title: Imaging-Based Fatigue Mechanism Investigation of Additively Manufactured
     Ti-6Al-4V
@@ -450,8 +450,8 @@
   date: '2021-11-01'
   link: https://doi.org/gtwgsb
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.eswa.2020.114316
   title: Probabilistic physics-guided machine learning for fatigue data analysis
   authors:
@@ -461,8 +461,8 @@
   date: '2021-04-01'
   link: https://doi.org/gtwgsc
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00158-019-02465-7
   title: Lifetime distribution selection for complete and censored multi-level testing
     data and its influence on probability of failure estimates
@@ -474,8 +474,8 @@
   date: '2020-01-23'
   link: https://doi.org/gtwh4h
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1115/IMECE2020-23411
   title: Bayesian Information Fusion of Multmodality Nondestructive Measurements for
     Probabilistic Mechanical Property Estimation
@@ -486,8 +486,8 @@
   date: '2020-11-16'
   link: https://doi.org/gtwgsd
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ijfatigue.2019.105462
   title: Multiaxial high-cycle fatigue life prediction under random spectrum loadings
   authors:
@@ -502,8 +502,8 @@
   date: '2020-05-01'
   link: https://doi.org/gtwgsf
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.2514/6.2020-1653
   title: Multimodality data fusion for probabilistic strength estimation of aging
     materials using Bayesian networks
@@ -514,8 +514,8 @@
   date: '2020-01-05'
   link: https://doi.org/gtwgsg
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ijfatigue.2020.105842
   title: Piecewise stochastic rainflow counting for probabilistic linear and nonlinear
     damage accumulation considering loading and material uncertainties
@@ -529,8 +529,8 @@
   date: '2020-11-01'
   link: https://doi.org/gtwgsh
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.strusafe.2020.101995
   title: Probabilistic bulk property estimation using multimodality surface non-destructive
     measurements for vintage pipes
@@ -542,8 +542,8 @@
   date: '2020-11-01'
   link: https://doi.org/gtwgsj
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ijfatigue.2020.105511
   title: Uncertainty quantification of fatigue S-N curves with sparse data using hierarchical
     Bayesian data augmentation
@@ -556,8 +556,8 @@
   date: '2020-05-01'
   link: https://doi.org/gtwgsk
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.2514/6.2020-0680
   title: Uncertainty quantification of fatigue properties with sparse data using hierarchical
     Bayesian model
@@ -568,8 +568,8 @@
   date: '2020-01-05'
   link: https://doi.org/gtwgsm
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1051/matecconf/201930012005
   title: Multiaxial high-cycle fatigue modelling for random loading
   authors:
@@ -584,8 +584,8 @@
   date: '2019-01-01'
   link: https://doi.org/gtwh4j
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.36001/phmconf.2019.v11i1.917
   title: Multimodality Information Fusion for Aging Pipe Strength and Toughness Estimation
     Using Bayesian Networks
@@ -596,8 +596,8 @@
   date: '2019-09-22'
   link: https://doi.org/gtwgsn
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.36001/phmconf.2019.v11i1.817
   title: Probabilistic Aging Pipe Strength Estimation Using Multimodality Information
     Fusion
@@ -608,8 +608,8 @@
   date: '2019-09-22'
   link: https://doi.org/gtwgsp
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.ijfatigue.2018.01.019
   title: Equivalent surface defect model for fatigue life prediction of steel reinforcing
     bars with pitting corrosion
@@ -623,5 +623,5 @@
   date: '2018-05-01'
   link: https://doi.org/gdbw79
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
