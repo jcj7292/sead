@@ -62,6 +62,7 @@
 
 .citation-publisher {
   text-transform: capitalize;
+  font-weight: var(--semi-bold);
 }
 
 .citation-description {
