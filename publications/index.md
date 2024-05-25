@@ -16,7 +16,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ### {% include list.html data="citations"  filters="group: featured" hideyear="true" component="citation" style="rich" %}
 
-### {% include citation.html lookup="pubmed:37723137" style="rich" %} {% include citation.html lookup="pubmed:30224808" style="rich" %} {% include citation.html lookup="pubmed:33432243" style="rich" %} {% include citation.html lookup="pubmed:33969380" style="rich" %} {% include citation.html lookup="pubmed:34009297" style="rich" %} {% include citation.html lookup="pubmed:22955616" style="rich" %} {% include citation.html lookup="pubmed:19969543" style="rich" %}
+{% include citation.html lookup="group: featured" hideyear="true" style="rich" %}
+
 
 {% include section.html %}
 
