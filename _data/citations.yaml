@@ -14,6 +14,8 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+  group:
+  - featured
 - id: doi:10.1002/9781394214297.ch45
   title: "Tire Life Assessment for Increasing Re\u2010Manufacturing of Commercial\
     \ Vehicle Tires"
@@ -133,6 +135,8 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+  group:
+  - featured
 - id: doi:10.1016/j.ijfatigue.2023.107914
   title: Crack growth-based life prediction for additively manufactured metallic materials
     considering surface roughness
@@ -333,6 +337,8 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+  group:
+  - featured
 - id: doi:10.1007/s00158-022-03443-2
   title: Multi-fidelity neural optimization machine for Digital Twins
   authors:
@@ -369,6 +375,8 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+  group:
+  - featured
 - id: doi:10.1016/j.ijfatigue.2021.106685
   title: Subcycle fatigue crack growth and equivalent initial flaw size model for
     fatigue life assessment under arbitrary loadings for Al-7075
@@ -463,6 +471,8 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+  group:
+  - featured
 - id: doi:10.1007/s00158-019-02465-7
   title: Lifetime distribution selection for complete and censored multi-level testing
     data and its influence on probability of failure estimates
