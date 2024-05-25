@@ -14,6 +14,38 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/9781394214297.ch45
+  title: "Tire Life Assessment for Increasing Re\u2010Manufacturing of Commercial\
+    \ Vehicle Tires"
+  authors:
+  - Vispi Karkaria
+  - Jie Chen
+  - Chase Siuta
+  - Damien Lim
+  - Robert Radelescu
+  - Wei Chen
+  publisher: Technology Innovation for the Circular Economy
+  date: '2024-01-26'
+  link: https://doi.org/gtwh37
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/1.4063761
+  title: "A Machine Learning\u2013Based Tire Life Prediction Framework for Increasing\
+    \ Life of Commercial Vehicle Tires"
+  authors:
+  - Vispi Karkaria
+  - Jie Chen
+  - Chase Siuta
+  - Damien Lim
+  - Robert Radulescu
+  - Wei Chen
+  publisher: Journal of Mechanical Design
+  date: '2023-11-13'
+  link: https://doi.org/gtwh39
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.48550/arXiv.2404.12445
   title: Adaptive Catalyst Discovery Using Multicriteria Bayesian Optimization with
     Representation Learning
@@ -115,6 +147,26 @@
   orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/micmic/ozad067.972
+  title: Automated Crystal System Identification from Four-dimensional Scanning Transmission
+    Electron Microscopy Data Using Brain-inspired Artificial Intelligence
+  authors:
+  - Carolin B Wahl
+  - Jie Chen
+  - Hengrui Zhang
+  - Wei Liu
+  - Shengtong Zhang
+  - Jiezhong Wu
+  - Chad A Mirkin
+  - Vinayak P Dravid
+  - Daniel W Apley
+  - Wei Chen
+  publisher: Microscopy and Microanalysis
+  date: '2023-07-22'
+  link: https://doi.org/gtwh4b
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.26434/chemrxiv-2023-38666
   title: Automated crystal system identification from electron diffraction patterns
     using multiview opinion fusion machine learning
@@ -130,6 +182,20 @@
   publisher: American Chemical Society (ACS)
   date: '2023-05-02'
   link: https://doi.org/gtwgrv
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2514/6.2023-2545
+  title: Multi-Fidelity Data Aggregation for Information Fusion in Simulation and
+    Experiment
+  authors:
+  - Jie Chen
+  - Changyu Meng
+  - Yi Gao
+  - Yongming Liu
+  publisher: AIAA SCITECH 2023 Forum
+  date: '2023-01-19'
+  link: https://doi.org/gtwh4c
   orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
@@ -197,6 +263,20 @@
   orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1111/ffe.13591
+  title: "Energy\u2010based time derivative damage accumulation model under uniaxial\
+    \ and multiaxial random loadings"
+  authors:
+  - "Shih\u2010Chuan Tien"
+  - Haoyang Wei
+  - Jie Chen
+  - Yongming Liu
+  publisher: Fatigue &amp; Fracture of Engineering Materials &amp; Structures
+  date: '2021-10-11'
+  link: https://doi.org/gtwgr6
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acsami.2c19309
   title: Crack Surface Analysis of Elastomers Using Transfer Learning
   authors:
@@ -227,20 +307,6 @@
     B: Mechanical Engineering'
   date: '2021-08-27'
   link: https://doi.org/gtwgr5
-  orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/ffe.13591
-  title: "Energy\u2010based time derivative damage accumulation model under uniaxial\
-    \ and multiaxial random loadings"
-  authors:
-  - "Shih\u2010Chuan Tien"
-  - Haoyang Wei
-  - Jie Chen
-  - Yongming Liu
-  publisher: Fatigue &amp; Fracture of Engineering Materials &amp; Structures
-  date: '2021-10-11'
-  link: https://doi.org/gtwgr6
   orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
@@ -316,6 +382,50 @@
   orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1155/2021/4632152
+  title: Bayesian Fatigue Life Prediction of Corroded Steel Reinforcing Bars
+  authors:
+  - Wei Wang
+  - Jie Chen
+  - Bo Diao
+  - Xuefei Guan
+  - Jingjing He
+  - Min Huang
+  publisher: Advances in Civil Engineering
+  date: '2021-12-28'
+  link: https://doi.org/gtwh4d
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijthermalsci.2021.107045
+  title: 'Thermal conductivity of metal coated polymer foam: Integrated experimental
+    and modeling study'
+  authors:
+  - Rui Dai
+  - Gokul Chandrasekaran
+  - Jie Chen
+  - Chayton Jackson
+  - Yongming Liu
+  - Qiong Nian
+  - Beomjin Kwon
+  publisher: International Journal of Thermal Sciences
+  date: '2021-11-01'
+  link: https://doi.org/gj4jsp
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2514/6.2021-1242
+  title: Physics-guided machine learning for multi-factor fatigue analysis and uncertainty
+    quantification
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: AIAA Scitech 2021 Forum
+  date: '2021-01-04'
+  link: https://doi.org/gtwh4f
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.addma.2021.101876
   title: Fatigue property prediction of additively manufactured Ti-6Al-4V using probabilistic
     physics-guided learning
@@ -350,6 +460,19 @@
   publisher: Expert Systems with Applications
   date: '2021-04-01'
   link: https://doi.org/gtwgsc
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00158-019-02465-7
+  title: Lifetime distribution selection for complete and censored multi-level testing
+    data and its influence on probability of failure estimates
+  authors:
+  - Jingjing He
+  - Jie Chen
+  - Xuefei Guan
+  publisher: Structural and Multidisciplinary Optimization
+  date: '2020-01-23'
+  link: https://doi.org/gtwh4h
   orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
@@ -444,6 +567,22 @@
   publisher: AIAA Scitech 2020 Forum
   date: '2020-01-05'
   link: https://doi.org/gtwgsm
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1051/matecconf/201930012005
+  title: Multiaxial high-cycle fatigue modelling for random loading
+  authors:
+  - Haoyang Wei
+  - Jie Chen
+  - Patricio Carrion
+  - Anahita Imanian
+  - Nima Shamsaei
+  - Nagaraja Iyyer
+  - Yongming Liu
+  publisher: MATEC Web of Conferences
+  date: '2019-01-01'
+  link: https://doi.org/gtwh4j
   orcid: 0000-0001-9772-765X
   plugin: orcid.py
   file: orcid.yaml
