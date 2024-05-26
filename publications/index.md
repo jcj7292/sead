@@ -7,13 +7,6 @@ nav:
 
 # Publications
 
-{%
-  include button.html
-  icon="fa-brands fa-google"
-  text="More on Google Scholar"
-  link="https://scholar.google.com/citations?user=PyIE5ssAAAAJ&hl=en"
-%}
-
 {% include section.html %}
 
 ## Recent Highlights
@@ -25,6 +18,12 @@ nav:
 {% include citation.html lookup="doi:10.1016/j.ress.2022.108823" style="rich" %}
 {% include citation.html lookup="doi:10.1016/j.eswa.2020.114316" style="rich" %}
 
+{%
+  include button.html
+  icon="fa-brands fa-google"
+  text="More on Google Scholar"
+  link="https://scholar.google.com/citations?user=PyIE5ssAAAAJ&hl=en"
+%}
 
 {% include section.html %}
 
