@@ -67,14 +67,19 @@
 - id: doi:10.1016/j.ijthermalsci.2021.107045
 - id: doi:10.2514/6.2021-1242
 - id: doi:10.1016/j.addma.2021.101876
+
 - id: doi:10.1115/IMECE2021-72865
+  publisher: ASME International Mechanical Engineering Congress and Exposition
 
 - id: doi:10.1016/j.eswa.2020.114316
   group:
     - featured
 
 - id: doi:10.1007/s00158-019-02465-7
+
 - id: doi:10.1115/IMECE2020-23411
+  publisher: ASME International Mechanical Engineering Congress and Exposition
+  
 - id: doi:10.1016/j.ijfatigue.2019.105462
 - id: doi:10.2514/6.2020-1653
 - id: doi:10.1016/j.ijfatigue.2020.105842
