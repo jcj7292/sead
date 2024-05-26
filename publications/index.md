@@ -11,7 +11,7 @@ nav:
   include button.html
   icon="fa-brands fa-google"
   text="More on Google Scholar"
-  link="http://scholar.google.com/citations?hl=en&user=ETJoidYAAAAJ"
+  link="https://scholar.google.com/citations?user=PyIE5ssAAAAJ&hl=en"
 %}
 
 {% include section.html %}
