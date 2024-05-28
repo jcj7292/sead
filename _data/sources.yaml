@@ -53,6 +53,7 @@
 - id: doi:10.1111/ffe.13640
 
 - id: doi:10.1016/j.cma.2021.114490
+  image: /images/publications/MF-CNN.svg
   group:
     - featured
 
@@ -73,6 +74,7 @@
   publisher: ASME International Mechanical Engineering Congress and Exposition
 
 - id: doi:10.1016/j.eswa.2020.114316
+  image: /images/publications/PPgNN.svg
   group:
     - featured
 
