@@ -36,6 +36,7 @@
 - id: doi:10.1073/pnas.2309240120
   group:
     - featured
+  image: /images/publications/MVOF.svg
 
 - id: doi:10.1016/j.ijfatigue.2023.107914
 - id: doi:10.1093/micmic/ozad067.972
