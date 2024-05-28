@@ -23,6 +23,7 @@
 #   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
 - id: doi:10.1016/j.addma.2024.104216
+  image: /images/publications/AM2024.jpg
   group:
     - featured
 
@@ -61,9 +62,6 @@
 - id: doi:10.48550/arXiv.2208.03897
 
 - id: doi:10.1016/j.ress.2022.108823
-  group:
-    - featured
-
 - id: doi:10.1016/j.ijfatigue.2021.106685
 - id: doi:10.1155/2021/4632152
 - id: doi:10.1016/j.ijthermalsci.2021.107045
