@@ -338,6 +338,7 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+  image: /images/publications/MF-CNN.svg
   group:
   - featured
 - id: doi:10.1007/s00158-022-03443-2
@@ -471,6 +472,7 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+  image: /images/publications/PPgNN.svg
   group:
   - featured
 - id: doi:10.1007/s00158-019-02465-7
