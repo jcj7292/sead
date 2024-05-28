@@ -14,6 +14,7 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+  image: /images/publications/AM2024.jpg
   group:
   - featured
 - id: doi:10.1002/9781394214297.ch45
@@ -377,8 +378,6 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
-  group:
-  - featured
 - id: doi:10.1016/j.ijfatigue.2021.106685
   title: Subcycle fatigue crack growth and equivalent initial flaw size model for
     fatigue life assessment under arbitrary loadings for Al-7075
