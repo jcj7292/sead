@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 1
-  tooltip: Musings and miscellany
+  tooltip: Lab news
 ---
 
 # News
