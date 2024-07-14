@@ -14,8 +14,8 @@
     {% endif %}
   {% endif %}
 
-  {% assign published = include.published | date: "%B %d, %Y" %}
-  {% assign updated = include.updated | date: "%B %d, %Y" %}
+  {% assign published = include.published | date: "%B, %Y" %}
+  {% assign updated = include.updated | date: "%B, %Y" %}
 
   {% if published %}
     <span data-tooltip="Date">
