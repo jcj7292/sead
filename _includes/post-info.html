@@ -18,14 +18,14 @@
   {% assign updated = include.updated | date: "%B, %Y" %}
 
   {% if published %}
-    <span data-tooltip="Date">
+    <span data-tooltip="Posted">
       {% include icon.html icon="fa-regular fa-calendar" %}
       <span>{{ published }}</span>
     </span>
   {% endif %}
 
   {% if updated and updated != "" and updated != published %}
-    <span data-tooltip="Date">
+    <span data-tooltip="Updated">
       {% include icon.html icon="fa-solid fa-clock-rotate-left" %}
       <span>{{ updated }}</span>
     </span>
