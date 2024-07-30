@@ -5,23 +5,22 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research
+# Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research is two-fold: first, integrating engineering analysis and design knowledge into the development of stochastic machine learning algorithms (Physics for ML); and second, harnessing machine learning for the discovery of engineering analysis and design knowledge under uncertainty (ML for Physics). Our engineering applications focus on process-structure-property-performance relationships, both static and fatigue, including additive manufacturing (AM), digital twins, and high-throughput materials characterization.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="Physics for ML, ML for Physics" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Physics for ML
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+## ML for Physics
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
