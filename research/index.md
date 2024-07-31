@@ -9,7 +9,8 @@ nav:
 
 Our research is two-fold: first, integrating engineering analysis and design knowledge into the development of stochastic machine learning (ML) algorithms (**Physics for ML**); and second, harnessing machine learning for the discovery of engineering analysis and design knowledge under uncertainty (**ML for Physics**). Our engineering applications focus on process-structure-property-performance relationships, both static and fatigue, including additive manufacturing, digital twins, and high-throughput materials characterization.
 
-{% include tags.html tags="Physics for ML, ML for Physics" %}
+{% include tags.html tags="Physics for ML" link="news"%}
+{% include tags.html tags="ML for Physics" link="contact"%}
 
 {% include search-info.html %}
 
