@@ -9,6 +9,7 @@ nav:
 
 Our research is two-fold: first, integrating engineering analysis and design knowledge into the development of stochastic machine learning (ML) algorithms (**Physics for ML**); and second, harnessing machine learning for the discovery of engineering analysis and design knowledge under uncertainty (**ML for Physics**). Our engineering applications focus on process-structure-property-performance relationships, both static and fatigue, including additive manufacturing, digital twins, and high-throughput materials characterization.
 
+{% include button.html type="email" text="jiechen@vt.edu" link="jiechen@vt.edu" %}
 {% include tags.html tags="Physics for ML" link="research/Physics for ML"%}
 {% include tags.html tags="ML for Physics" link="contact"%}
 
