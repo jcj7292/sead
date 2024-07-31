@@ -12,7 +12,6 @@ Our research is two-fold: first, integrating engineering analysis and design kno
 {% include tags.html tags="Physics for ML" link="news"%}
 {% include tags.html tags="ML for Physics" link="contact"%}
 
-{% include search-info.html %}
 
 {% include section.html %}
 
