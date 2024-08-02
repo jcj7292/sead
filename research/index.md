@@ -36,7 +36,8 @@ Our research is two-fold: first, integrating engineering analysis and design kno
 
 {%
   include figure.html
-  image="images/research/digital-twin.svg"
+  image="images/research/digital-twin.svg
+  width="60%""
 %}
 
 
