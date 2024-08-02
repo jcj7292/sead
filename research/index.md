@@ -56,7 +56,7 @@ Additive Manufacturing (AM) is a disruptive Industry 4.0 technology that offers 
 {%
   include float.html
   content=content
-  flip=true
+  flip=false
 %}
 
 Several paragraphs of text.
