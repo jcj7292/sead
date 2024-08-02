@@ -44,3 +44,22 @@ Additive Manufacturing (AM) is a disruptive Industry 4.0 technology that offers 
 
 
 
+### High-throughput Data Analysis for Automated Materials Discovery
+{% capture content %}
+  {% 
+    include figure.html
+    image="images/research/digital-twin.svg"
+    width="65%"
+  %}
+{% endcapture %}
+
+{%
+  include float.html
+  content=content
+  flip=true
+%}
+
+Several paragraphs of text.
+
+{% include float.html clear=true %}
+
