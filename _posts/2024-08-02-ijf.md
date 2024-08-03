@@ -1,0 +1,11 @@
+---
+title: Jie Chen joined the Editorial Board of International Journal of Fatigue
+image: images/news/2024-08-02-ijf.jpg
+author: Jie Chen
+last_modified_at: ""
+excerpt: Jie Chen joined the Editorial Board of [International Journal of Fatigue](https://www.sciencedirect.com/journal/international-journal-of-fatigue) from August 2024.
+---
+
+
+Jie Chen joined the Editorial Board of [International Journal of Fatigue](https://www.sciencedirect.com/journal/international-journal-of-fatigue) from August 2024.
+
