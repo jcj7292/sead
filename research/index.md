@@ -36,6 +36,18 @@ Neither a ML-only nor a physics-only approach can be considered sufficient for c
 
 {% include float.html clear=true %}
 
+### Multi-fidelity Machine Learning
+
+{%
+  include figure.html
+  image="images/research/multi-fidelity.svg"
+  width="62%"
+%}
+
+Multi-fidelity data exist in almost every engineering and science discipline, which can be from simulation, experiments, and a hybrid form. High fidelity data are usually associated with higher accuracy and expense (e.g., high resolution experimental testing or finer scale simulation), while low-fidelity data are on the opposite side in terms of accuracy and cost. We develop machine learning based multi-fidelity data aggregation methods to combine two or multiple sources of different fidelity data to alleviating the computational cost but still achieving high accuracy. The methods have been applied in finite element analysis with random microstructure, fatigue crack growth prognosis with monitoring, accelerating microstructure simulation and data collecting in Computed Tomography scanning.
+
+
+
 
 {% include section.html %}
 
@@ -49,7 +61,7 @@ Neither a ML-only nor a physics-only approach can be considered sufficient for c
   width="62%"
 %}
 
-Additive Manufacturing (AM) is a disruptive Industry 4.0 technology that offers superior flexibility of manufacturing complex products and reduces energy and material waste. However, AM part quality is highly variable due to inadequate dimensional tolerances, surface roughness, and defects, thereby limiting its broad acceptance. To this end, we develop Digital twin (DT) technology for real-time monitoring and control. This framework dynamically adjusts the AM process parameters based on the non-destructive testing signals (digital-to-physical). Physics-based computational models such as the finite element method and computational fluid dynamics have been widely applied to predict thermal behavior in AM processes. However, they suffer from intensive computational costs, thus are not suitable for applications in online control and iterative design. To enable real-time control in AM, we develop advanced machine learning methods. High-fidelity simulation is used for offline training. Multi-fidelity models are used for online prediction. Meanwhile, both high and low-fidelity models will be updated from the AM experimental data (physical-to-digital). Adaptive sampling approaches are used for both online and offline data collections. In addition, uncertainty will be quantified to develop statistical confidence in the ability to control and monitor the process.
+Additive Manufacturing (AM) is a disruptive Industry 4.0 technology that offers superior flexibility of manufacturing complex products and reduces energy and material waste. However, AM part quality is highly variable due to inadequate dimensional tolerances, surface roughness, and defects, thereby limiting its broad acceptance. To this end, we develop Digital twin (DT) technology for real-time monitoring and control. DT allows dynamically adjusting the AM process parameters based on the non-destructive testing signals (digital-to-physical). Meanwhile, both computational models are updated from the AM experimental data (physical-to-digital). Adaptive sampling approaches are used for both online and offline data collections. In addition, uncertainty will be quantified to develop statistical confidence in the ability to control and monitor the process.
 
 
 
