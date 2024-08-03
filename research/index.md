@@ -46,6 +46,25 @@ Neither a ML-only nor a physics-only approach can be considered sufficient for c
 
 Multi-fidelity data exist in almost every engineering and science discipline, which can be from simulation, experiments, and a hybrid form. High fidelity data are usually associated with higher accuracy and expense (e.g., high resolution experimental testing or finer scale simulation), while low-fidelity data are on the opposite side in terms of accuracy and cost. We develop machine learning based multi-fidelity data aggregation methods to combine two or multiple sources of different fidelity data to alleviating the computational cost but still achieving high accuracy. The methods have been applied in finite element analysis with random microstructure, fatigue crack growth prognosis with monitoring, accelerating microstructure simulation and data collecting in Computed Tomography scanning.
 
+### Uncertainty Quantification (UQ)
+{% capture content %}
+  {% 
+    include figure.html
+    image="images/research/uq.svg"
+    width="82%"
+  %}
+{% endcapture %}
+
+{%
+  include float.html
+  content=content
+  flip=false
+%}
+
+Uncertainty is ubiquitous in any physical system. Proper UQ is critical in decision-making, reliability, and resource allocation. The uncertainty includes aleatoric uncertainty due to intrinsic variability and epistemic uncertainty due to lack of knowledge/data. We employ Bayesian statistics for accounting for both types of uncertainties. We also develop UQ method in ML to combine the flexibility of ML with reliability of UQ. The developed methods have been applied in nondestructive testing, automated materials characterization, and catalyst discovery.
+
+{% include float.html clear=true %}
+
 
 
 
