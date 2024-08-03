@@ -1,7 +1,7 @@
 ---
 ---
 
-## Where Machine Learning Meets Engineering Analysis & Design under Uncertainties
+## Where Machine Learning Meets Engineering Analysis & Design under Uncertainty
 The Stochastic Engineering Analysis & Design (SEAD) Lab focuses on 
 
 1. **Physics for Machine Learning**: integrating engineering analysis & design knowledge into stochastic machine learning algorithm development.
