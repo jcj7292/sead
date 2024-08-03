@@ -17,15 +17,24 @@ Our research is two-fold: first, integrating engineering analysis and design kno
 
 ## Physics for ML
 
-Our research is two-fold: first, integrating engineering analysis and design knowledge into the development of stochastic machine learning (ML) algorithms (**Physics for ML**); and second, harnessing machine learning for the discovery of engineering analysis and design knowledge under uncertainty (**ML for Physics**). Our engineering applications focus on process-structure-property-performance relationships, both static and fatigue, including additive manufacturing, digital twins, and high-throughput materials characterization.
+### Physics-based Machine Learning
+{% capture content %}
+  {% 
+    include figure.html
+    image="images/research/physics-based=ml.svg"
+    width="82%"
+  %}
+{% endcapture %}
 
-Our research is two-fold: first, integrating engineering analysis and design knowledge into the development of stochastic machine learning (ML) algorithms (**Physics for ML**); and second, harnessing machine learning for the discovery of engineering analysis and design knowledge under uncertainty (**ML for Physics**). Our engineering applications focus on process-structure-property-performance relationships, both static and fatigue, including additive manufacturing, digital twins, and high-throughput materials characterization.
+{%
+  include float.html
+  content=content
+  flip=false
+%}
 
-Our research is two-fold: first, integrating engineering analysis and design knowledge into the development of stochastic machine learning (ML) algorithms (**Physics for ML**); and second, harnessing machine learning for the discovery of engineering analysis and design knowledge under uncertainty (**ML for Physics**). Our engineering applications focus on process-structure-property-performance relationships, both static and fatigue, including additive manufacturing, digital twins, and high-throughput materials characterization.
+Neither a ML-only nor a physics-only approach can be considered sufficient for complex scientific and engineering problems. The motivation for physics-based ML is to combine physics-based and ML models to leverage their complementary strengths. In addition, given that artificial intelligence aims to replicate human intelligence, a compelling concept is to create ML algorithms that are informed by the operational principles of the human brain. Our research is incorporating physics knowledge/human intelligence into the ML architecture design. The developed methods have been applied in multiple engineering problems including fatigue life modeling of metal and composite materials, probabilistic fatigue properties of AM considering the effects of process parameters and missing data, and natural frequency prediction of bridges.
 
-Our research is two-fold: first, integrating engineering analysis and design knowledge into the development of stochastic machine learning (ML) algorithms (**Physics for ML**); and second, harnessing machine learning for the discovery of engineering analysis and design knowledge under uncertainty (**ML for Physics**). Our engineering applications focus on process-structure-property-performance relationships, both static and fatigue, including additive manufacturing, digital twins, and high-throughput materials characterization.
-
-Our research is two-fold: first, integrating engineering analysis and design knowledge into the development of stochastic machine learning (ML) algorithms (**Physics for ML**); and second, harnessing machine learning for the discovery of engineering analysis and design knowledge under uncertainty (**ML for Physics**). Our engineering applications focus on process-structure-property-performance relationships, both static and fatigue, including additive manufacturing, digital twins, and high-throughput materials characterization.
+{% include float.html clear=true %}
 
 
 {% include section.html %}
