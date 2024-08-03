@@ -49,7 +49,7 @@ Additive Manufacturing (AM) is a disruptive Industry 4.0 technology that offers 
   {% 
     include figure.html
     image="images/research/materials-discovery.svg"
-    width="68%"
+    width="80%"
   %}
 {% endcapture %}
 
@@ -68,7 +68,7 @@ Automated materials discovery brings energy efficiency and environmental conserv
   {% 
     include figure.html
     image="images/research/multiscale-uq-up.svg"
-    width="72%"
+    width="80%"
   %}
 {% endcapture %}
 
