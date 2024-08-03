@@ -21,7 +21,7 @@ Our research is two-fold: first, integrating engineering analysis and design kno
 {% capture content %}
   {% 
     include figure.html
-    image="images/research/physics-based=ml.svg"
+    image="images/research/physics-based-ml.svg"
     width="82%"
   %}
 {% endcapture %}
