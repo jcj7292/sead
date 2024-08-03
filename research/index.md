@@ -68,7 +68,7 @@ Automated materials discovery brings energy efficiency and environmental conserv
   {% 
     include figure.html
     image="images/research/multiscale-uq-up.svg"
-    width="80%"
+    width="82%"
   %}
 {% endcapture %}
 
