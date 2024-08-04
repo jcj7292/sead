@@ -2,9 +2,6 @@
 name: Jie Chen
 image: images/team/jie-chen.jpg
 role: pi
-aliases:
-  - J. Chen
-  - J Chen
 links:
   home-page: https://janesmith.com
   google-scholar: PyIE5ssAAAAJ&hl
