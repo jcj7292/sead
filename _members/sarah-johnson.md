@@ -7,4 +7,4 @@ links:
   email: lijinyang@vt.edu
 ---
 
-Jinyang Li is a PhD student in SEAD Lab since 2024 Fall.
+Jinyang Li is a PhD student. He joined SEAD Lab in Fall 2024.
