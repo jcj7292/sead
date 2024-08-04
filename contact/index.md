@@ -17,12 +17,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   text="jiechen@vt.edu"
   link="jiechen@vt.edu"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(480) 241-8369"
-  link="+1-480-241-8369"
-%}
+[//]: #{%
+[//]: #  include button.html
+[//]: #  type="phone"
+[//]: #  text="(480) 241-8369"
+[//]: #  link="+1-480-241-8369"
+[//]: #%}
 {%
   include button.html
   type="address"
