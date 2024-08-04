@@ -11,10 +11,10 @@ We welcome motivated PhD, Master’s, and undergraduate researchers to join our 
 **Qualified candidates will have**
 - B.S. and/or M.S. in Mechanical Engineering, Computer Science, Industrial Engineering, Civil Engineering, or related fields
 - Strong mathematical and programming (Python and/or MATLAB) skills
-- 
+
 **Preferred skills & experience**
 - Background in machine learning, uncertainty quantification, optimization, mechanics, materials, or manufacturing
-- 
+  
 **How to apply**
 To apply, please email your CV, transcripts, and a short description of your research interest to Dr. Jie Chen at jiechen@vt.edu. More application information can be found from [VT Graduate School website](https://graduateschool.vt.edu/admissions/how-to-apply.html).
 
