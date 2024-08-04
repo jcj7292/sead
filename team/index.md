@@ -21,7 +21,7 @@ nav:
         <span class="portrait-text">
           
             <span class="portrait-name">
-              Jie Chen
+              Dr. Jie Chen
             </span>
           
   
