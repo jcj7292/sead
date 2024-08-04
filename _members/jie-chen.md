@@ -10,10 +10,14 @@ links:
   email: jiechen@vt.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+**Education**
+PhD in Mechanical Engineering, Arizona State University, Tempe, AZ
+MS in Civil Engineering, Beijing University of Aeronautics and Astronautics, China
+BS in Civil Engineering, Beijing University of Aeronautics and Astronautics, China
+
+**Significant Recognition**
+Dean’s Dissertation Award in the Ira A. Fulton Schools of Engineering, Arizona State University, 2022
+
+**Significant Professional Service**
+Editorial Board of International Journal of Fatigue, 2024-present
+American Institute of Aeronautics and Astronautics (AIAA) Non-Deterministic Approaches Technical Committee, 2023-present
