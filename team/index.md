@@ -65,6 +65,7 @@ Dr. Jie Chen is an Assistant Professor in Mechanical Engineering at Virginia Tec
 {% include section.html background="images/background.jpg" dark=true %}
 
 We are always looking for new members to our team. For more information on how to join us, you can review our join us page.
+{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="join" style="button" %}
 
 {% include section.html %}
 ## Alumni
