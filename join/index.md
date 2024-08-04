@@ -2,34 +2,27 @@
 title: Join the Team
 ---
 
-# {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
+# Join Us
 
-You can learn a bit about working in the lab by reading our [onboarding document](https://github.com/greenelab/onboarding/blob/master/onboarding.md).
-Positions across our Department of Biomedical Informatics, including in our lab, for staff and postdocs are usually listed on the [employment section of the DBMI website](https://medschool.cuanschutz.edu/dbmi/employment).
-
-### Postdoctoral Researchers
-
-The Greene Lab welcomes applications for computational postdoctoral positions at the University of Colorado School of Medicine.
-Learn about these opportunities through our recent Post-Doctoral Fellow posting, and applications can only be accepted through the [CU Anschutz Taleo Portal](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=29720&lang=en).
+We welcome motivated PhD, Master’s, and undergraduate researchers to join our lab. Our team is dedicated to pioneering advancements in machine learning, uncertainty quantification, and their applications in mechanical analysis & design,  materials science, and manufacturing. By joining us, you will have the opportunity to work on cutting-edge projects, collaborate with experts in the field, and contribute to impactful research. We look forward to your fresh perspectives and innovative ideas as we push the boundaries of engineering and science together.
 
 ### Graduate Students
 
-The University of Colorado has both an umbrella program and discipline-specific ones.
-The umbrella program is the [Biomedical Sciences Program](https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/home).
-Our primary program affiliation is the University of Colorado's [Computational Biosciences Program](https://www.cuanschutz.edu/graduate-programs/computational-bioscience/home).
-We are also excited to welcome students who want to pursue computational research from [other graduate programs](https://www.cuanschutz.edu/graduate-programs) on a case-by-case basis.
-
-Our goal is to help our students develop both a deep familiarity with the computational methods required for data-intensive science and a strong understanding of one or more biological application areas.
-We provide training in all aspects through group meetings, individual meetings, and a supportive lab environment.
-
-If you have not yet joined one of the PhD programs above, the first step to joining our group is to apply and be admitted to one of these programs.
-If you are already a PhD student in one of the above programs and are interested in rotating in our lab, please [contact Casey]({{ site.baseurl }}/contact) to set up a time to discuss your interest.
+**Qualified candidates will have**
+- B.S. and/or M.S. in Mechanical Engineering, Computer Science, Industrial Engineering, Civil Engineering, or related fields
+- Strong mathematical and programming (Python and/or MATLAB) skills
+**Preferred skills & experience**
+- Background in machine learning, uncertainty quantification, optimization, mechanics, materials, or manufacturing
+**How to apply**
+To apply, please email your CV, transcripts, and a short description of your research interest to Dr. Jie Chen at jiechen@vt.edu. More application information can be found from [VT Graduate School website](https://graduateschool.vt.edu/admissions/how-to-apply.html).
 
 
-### Programmers
 
-We work with programmers at [DBMI's software engineering team](https://cu-dbmi.github.io/set-website/) to bring research products to practice.
-Visit their website to learn about opportunities on the team.
+### Undergraduate Student
+
+We welcome undergraduate students into our lab. We are happy to provide training in many aspects of data-intensive engineering analysis and desing, and we have high expectations for their level of commitment to research.
+
+If you are an undergraduate interested in discussing research opportunities please contact Dr. Jie Chen.
 
 <!--
 ### Undergraduate Students
@@ -39,6 +32,7 @@ Undergraduate researchers have become first authors on papers submitted on resea
 We are happy to train undergraduates in many aspects of data-intensive biology, and we have high expectations for their level of commitment to research.
 
 If you are an undergraduate interested in discussing research opportunities please [contact Casey]({{ site.baseurl }}/contact).
--->
+
 
 {% include figure.html image="images/team/group-photo-3.jpg" width="100%" %}
+-->
