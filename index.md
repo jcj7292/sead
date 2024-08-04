@@ -18,8 +18,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="news"
+  text="Browse our news"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -30,8 +30,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="news"
+  title="Our News"
   text=text
 %}
 
@@ -41,8 +41,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="research"
   title="Our Projects"
   flip=true
   style="bare"
