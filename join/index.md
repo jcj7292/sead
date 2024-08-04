@@ -20,9 +20,9 @@ To apply, please email your CV, transcripts, and a short description of your res
 
 
 
-### Undergraduate Student
+### Undergraduate Researchers
 
-We welcome undergraduate students into our lab. We are happy to provide training in many aspects of data-intensive engineering analysis and desing, and we have high expectations for their level of commitment to research.
+We welcome undergraduate students into our lab. We are happy to provide training in many aspects of data-intensive engineering analysis and design, and we have high expectations for their level of commitment to research.
 
 If you are an undergraduate interested in discussing research opportunities please contact Dr. Jie Chen.
 
