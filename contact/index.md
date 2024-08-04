@@ -25,8 +25,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   link="https://www.google.com/maps"
 %}
 
-<!--
-
 {% include section.html %}
 
 {% capture col1 %}
@@ -72,5 +70,3 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
-
--->
