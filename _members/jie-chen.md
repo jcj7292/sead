@@ -11,13 +11,19 @@ links:
 ---
 
 **Education**
+
 PhD in Mechanical Engineering, Arizona State University, Tempe, AZ
+
 MS in Civil Engineering, Beijing University of Aeronautics and Astronautics, China
+
 BS in Civil Engineering, Beijing University of Aeronautics and Astronautics, China
 
 **Significant Recognition**
+
 Dean’s Dissertation Award in the Ira A. Fulton Schools of Engineering, Arizona State University, 2022
 
 **Significant Professional Service**
+
 Editorial Board of International Journal of Fatigue, 2024-present
+
 American Institute of Aeronautics and Astronautics (AIAA) Non-Deterministic Approaches Technical Committee, 2023-present
