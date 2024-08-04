@@ -18,9 +18,11 @@ MS in Civil Engineering, Beijing University of Aeronautics and Astronautics, Chi
 
 BS in Civil Engineering, Beijing University of Aeronautics and Astronautics, China
 
+
 **Significant Recognition**
 
 Dean’s Dissertation Award in the Ira A. Fulton Schools of Engineering, Arizona State University, 2022
+
 
 **Significant Professional Service**
 
