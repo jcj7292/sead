@@ -25,7 +25,7 @@ We welcome motivated PhD, Master’s, and undergraduate researchers to join our 
 
 We welcome undergraduate students into our lab. We are happy to provide training in many aspects of data-intensive engineering analysis and design, and we have high expectations for their level of commitment to research.
 
-If you are an undergraduate interested in discussing research opportunities please contact Dr. Jie Chen.
+If you are an undergraduate interested in discussing research opportunities please contact Dr. Jie Chen at jiechen@vt.edu.
 
 <!--
 ### Undergraduate Students
