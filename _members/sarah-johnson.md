@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Jinyang Li
 image: images/photo.jpg
-description: Lead Programmer
+description: PhD Student
 role: phd
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: lijinyang@vt.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Jinyang Li is a PhD student in SEAD Lab since 2024 Fall.
