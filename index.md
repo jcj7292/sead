@@ -86,7 +86,7 @@ Our research integrates machine learning algorithms into engineering analysis an
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/home-team.svg"
   link="team"
   title="Our Team"
   text=text
