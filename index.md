@@ -37,7 +37,7 @@ The Stochastic Engineering Analysis & Design (SEAD) Lab focuses on
 
 {% capture text %}
 
-Our research integrates stochastic machine learning algorithms into engineering analysis and design, focusing on process-structure-property-performance relationships.
+Our research integrates machine learning algorithms into engineering analysis and design under uncertainty, focusing on process-structure-property-performance relationships.
 
 {%
   include button.html
