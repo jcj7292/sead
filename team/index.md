@@ -68,3 +68,12 @@ We are always looking for new members to our team. For more information, you can
 {% include button.html text="Join Us" link="join" style="button" %}
 
 {% include section.html %}
+
+## Alumni
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
+
