@@ -48,7 +48,7 @@ SW7 2BU, London
 
 {%
   include figure.html
-  image="images/vt-campus.jpg"
+  image="images/contact/vt-campus.jpg"
   caption="Virginia Tech Campus"
 %}
 
