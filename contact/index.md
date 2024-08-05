@@ -33,13 +33,6 @@ SW7 2BU, London
   link="https://www.google.com/maps"
 %}
 
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
-
 {% include section.html %}
 {% capture col1 %}
 
