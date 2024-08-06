@@ -1,1 +1,1 @@
-Sitemap: http://seadlab.com/sitemap.xml
+Sitemap: https://seadlab.com/sitemap.xml
