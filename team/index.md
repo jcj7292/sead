@@ -29,7 +29,7 @@ nav:
             <span class="portrait-role">
               
               <!-- <i class="icon fa-solid fa-microscope"></i> -->
-              <span>Principal Investigator</span>
+              <span>Assistant Professor</span>
             </span>
           
         </span>
