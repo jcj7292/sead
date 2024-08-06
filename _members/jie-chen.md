@@ -20,6 +20,12 @@ BS in Civil Engineering, Beijing University of Aeronautics and Astronautics, Chi
 <br/>
 <br/>
 
+**Professional History**
+
+Postdoctoral Fellow in Mechanical Engineering, Northwestern University, Evanston, IL, 2022-2024
+<br/>
+<br/>
+
 **Significant Recognition**
 
 Dean’s Dissertation Award in the Ira A. Fulton Schools of Engineering, Arizona State University, 2022
