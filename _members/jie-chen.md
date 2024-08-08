@@ -22,10 +22,10 @@ Postdoctoral Fellow in Mechanical Engineering, Northwestern University, Evanston
 
 **Significant Recognition**
 
-Dean’s Dissertation Award in the Ira A. Fulton Schools of Engineering, Arizona State University, 2022
+- Dean’s Dissertation Award in the Ira A. Fulton Schools of Engineering, Arizona State University, 2022
 
 **Significant Professional Service**
 
-Editorial Board of International Journal of Fatigue, 2024-present  <br>
-American Institute of Aeronautics and Astronautics (AIAA) Non-Deterministic Approaches Technical Committee, 2023-present
+- Editorial Board of International Journal of Fatigue, 2024-present  <br>
+- American Institute of Aeronautics and Astronautics (AIAA) Non-Deterministic Approaches Technical Committee, 2023-present
 
