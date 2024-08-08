@@ -12,9 +12,9 @@ links:
 
 **Education**
 
-- PhD in Mechanical Engineering, Arizona State University, Tempe, AZ <br>
-- MS in Civil Engineering, Beijing University of Aeronautics and Astronautics, China <br>
-- BS in Civil Engineering, Beijing University of Aeronautics and Astronautics, China
+PhD in Mechanical Engineering, Arizona State University, Tempe, AZ <br>
+MS in Civil Engineering, Beijing University of Aeronautics and Astronautics, China <br>
+BS in Civil Engineering, Beijing University of Aeronautics and Astronautics, China
 
 **Professional History**
 
