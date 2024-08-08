@@ -18,18 +18,15 @@ MS in Civil Engineering, Beijing University of Aeronautics and Astronautics, Chi
 
 BS in Civil Engineering, Beijing University of Aeronautics and Astronautics, China
 <br/>
-<br/>
 
 **Professional History**
 
 Postdoctoral Fellow in Mechanical Engineering, Northwestern University, Evanston, IL, 2022-2024
 <br/>
-<br/>
 
 **Significant Recognition**
 
 Dean’s Dissertation Award in the Ira A. Fulton Schools of Engineering, Arizona State University, 2022
-<br/>
 <br/>
 
 **Significant Professional Service**
@@ -37,5 +34,4 @@ Dean’s Dissertation Award in the Ira A. Fulton Schools of Engineering, Arizona
 Editorial Board of International Journal of Fatigue, 2024-present
 
 American Institute of Aeronautics and Astronautics (AIAA) Non-Deterministic Approaches Technical Committee, 2023-present
-<br/>
 <br/>
