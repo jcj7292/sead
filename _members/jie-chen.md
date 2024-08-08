@@ -18,7 +18,8 @@ BS in Civil Engineering, Beijing University of Aeronautics and Astronautics, Chi
 
 **Professional History**
 
-Postdoctoral Fellow in Mechanical Engineering, Northwestern University, Evanston, IL, 2022-2024
+- Assistant Professor in Mechanical Engineering, Virginia Tech, Blacksburg, VA, 2024-present
+- Postdoctoral Fellow in Mechanical Engineering, Northwestern University, Evanston, IL, 2022-2024
 
 **Significant Recognition**
 
