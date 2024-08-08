@@ -11,7 +11,9 @@ Our lab is located in the Blacksburg campus of  Virginia Tech.
 
 Our full address is:
 
-307 Durham Hall                                                                                                                                                 1145 Perry Street                                                                                                                                        Blacksburg, VA 24061
+307 Durham Hall <br>
+1145 Perry Street <br>
+Blacksburg, VA 24061
 
 
 
