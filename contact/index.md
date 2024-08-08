@@ -9,13 +9,12 @@ nav:
 
 Our lab is located in the Blacksburg campus of  Virginia Tech.
 
-<!-- 
 Our full address is:
 
-Skempton Building
-Imperial College London
-SW7 2BU, London
--->
+307 Durham Hall
+1145 Perry Street
+Blacksburg, VA 24061
+
 
 
 
@@ -30,7 +29,7 @@ SW7 2BU, London
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+    link="https://www.google.com/maps/place/Durham+Hall,+Blacksburg,+VA+24061/@37.2316582,-80.4261852,693m/data=!3m2!1e3!4b1!4m6!3m5!1s0x884d956d06750d91:0xdba267f758757581!8m2!3d37.2316582!4d-80.4236103!16s%2Fg%2F1v29cqlf?entry=ttu"
 %}
 
 {% include section.html %}
