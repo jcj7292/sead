@@ -1,6 +1,6 @@
 ---
 name: Jinyang Li
-image: images/photo.jpg
+image: images/team/jinyang-li.jpg
 description: PhD Student
 role: phd
 links:
