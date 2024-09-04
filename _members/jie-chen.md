@@ -3,7 +3,7 @@ name: Jie Chen
 image: images/team/jie-chen.jpg
 role: pi
 links:
-  home-page: https://janesmith.com
+  home-page: https://me.vt.edu/people/faculty/chen-jie.html
   google-scholar: PyIE5ssAAAAJ&hl
   linkedin: jie-chen-jcj7292
   github: jcj7292
