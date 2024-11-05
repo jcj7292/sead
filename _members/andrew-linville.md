@@ -4,8 +4,8 @@ image: images/team/andrew-linville.jpg
 description: Undergraduate Student
 role: phd
 links:
-  google-scholar: T6QKdT4AAAAJ
-  email: andrew03@vt.edu@vt.edu
+  linkedin: andrew-linville
+  email: andrew03@vt.edu
 ---
 
 Andrew Linville is an undergraduate student in the Department of Mechanical Engineering at Virginia Tech, set to graduate in Spring 2025. He has been accepted into the Master of Mechanical Engineering program and will join the SEAD Lab for Graduate Studies. His research interests include utilizing Machine Learning for Industrial Predictive Maintenance, Component Fault Detection, and Uncertainty Quantification in Predictions.
