@@ -1,7 +1,7 @@
 ---
 name: Andrew Linville
 image: images/team/andrew-linville.jpg
-description: Undergraduate Student
+description: Master Student
 role: master
 links:
   linkedin: andrew-linville
