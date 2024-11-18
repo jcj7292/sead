@@ -4,8 +4,8 @@ image: images/team/jiale-song.jpg
 description: Undergraduate Student
 role: undergraduate
 links:
-  email: sjiale@vt.edu
   github: ShawnSjl
+  email: sjiale@vt.edu
 ---
 
 Jiale Song is an undergraduate student who major in Computer Science at Virginia Tech, set to graduate in Spring 2025. His study is focused on problem solution and application of Machine Learning and other programming skills in different area. He joined the SEAD Lab to apply, validate, and enhance his Machine Learning skills.
