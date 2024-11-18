@@ -1,6 +1,6 @@
 ---
 name: Jiale Song
-image: images/team/jiale-song.jpg
+image: images/team/jiale-song.jpeg
 description: Undergraduate Student
 role: undergraduate
 links:
