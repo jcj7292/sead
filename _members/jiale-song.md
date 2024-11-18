@@ -4,7 +4,6 @@ image: images/team/jiale-song.jpg
 description: Undergraduate Student
 role: undergraduate
 links:
-  google-scholar:
   email: sjiale@vt.edu
   github: ShawnSjl
 ---
