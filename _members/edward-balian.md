@@ -14,7 +14,7 @@ Edward Balian is an undergraduate student pursuing a Mechanical Engineering degr
 BS in Mechanical Engineering, Virginia Tech, US, 2022-2026
 
 #### Professional History
-Virtual Student Intern, Intel, Chandler, AZ, Summer 2022 <\br>
+Virtual Student Intern, Intel, Chandler, AZ, Summer 2022 <br>
 Research Assistant, Tufts Dental, Boston, MA, 2020-2021
 
 
