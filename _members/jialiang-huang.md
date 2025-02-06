@@ -2,7 +2,7 @@
 name: Jialiang Huang
 image: images/team/jialiang-huang.jpg
 description: Undergraduate Student
-role: undergraduate
+role: undergrad
 links:
   email: jialiang20@vt.edu
 ---
