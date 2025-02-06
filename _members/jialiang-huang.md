@@ -4,7 +4,6 @@ image: images/team/jialiang-huang.jpg
 description: Undergraduate Student
 role: undergraduate
 links:
-  google-scholar:
   email: jialiang20@vt.edu
 ---
 
