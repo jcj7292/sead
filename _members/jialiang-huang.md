@@ -16,4 +16,3 @@ BS in Mechanical Engineering, Virginia Tech, Virginia, US, 2022-2026
 Research and Development Assistant, Focused Photonics Inc, Hangzhou, China, 2021 summer <br>
 Research and Development Assistant, Inspur, Jinan, China, 2024 summer
 
-
