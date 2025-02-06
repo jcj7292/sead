@@ -2,7 +2,7 @@
 name: Jiale Song
 image: images/team/jiale-song.jpeg
 description: Undergraduate Student
-role: undergraduate
+role: undergrad
 links:
   github: ShawnSjl
   email: sjiale@vt.edu
