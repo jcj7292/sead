@@ -2,7 +2,7 @@
 name: Edward Balian
 image: images/team/edward-balian.jpg
 description: Undergraduate Student
-role: undergraduate
+role: undergrad
 links:
   linkedin: edward-balian-484978253
   email: edwardb@vt.edu
