@@ -14,7 +14,7 @@ His research is focused on Automated Machine Learning for Micro-Structure Analys
 BS in Mechanical Engineering, Virginia Tech, Virginia, US, 2022-2026
 
 #### Professional History
-Research and Development Assistant, Focused Photonics Inc, Hangzhou, 2021 summer
+Research and Development Assistant, Focused Photonics Inc, Hangzhou, 2021 summer <br>
 Research and Development Assistant, Inspur, Jinan, 2024 summer
 
 
