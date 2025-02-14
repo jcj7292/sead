@@ -16,7 +16,7 @@ B.S. in Mechanical Engineering Technology, Purdue University, 2016–2019
 
 
 #### Professional History
-Research Assistant, Department of Mechanical Engineering, Virginia Tech, 2024–Present <br>
+Research Assistant, Department of Mechanical Engineering, Virginia Tech, 2025–Present <br>
 Research Assistant, Cornell University, 2023–2024 <br>
 Research Assistant, Institute of Mechanics, Chinese Academy of Sciences, 2020–2021
 
