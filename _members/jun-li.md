@@ -4,7 +4,7 @@ image: images/team/jun-li.jpg
 description: PhD Student
 role: phd
 links:
-  google-scholar: J1NEQAAAAJ
+  google-scholar: nuJ1NEQAAAAJ&hl
   email: lijun233@vt.edu
 ---
 
