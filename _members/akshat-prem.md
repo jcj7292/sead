@@ -2,7 +2,7 @@
 name: Akshat Prem
 image: images/team/akshat-prem.jpg
 description: Research Assistant Volunteer
-role: phd
+role: researcher
 links:
   linkedin: akshat-prem-120642252
   email: akshatp@vt.edu
