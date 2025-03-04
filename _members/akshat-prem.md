@@ -17,9 +17,5 @@ BS in Mechanical Engineering, Virginia Tech, Blacksburg, VA, 2020-2024
 Research Assistant, Virginia Tech | Present <br>
 Research Assistant, Virginia Tech | Fall 2023 <br>
 Mechanical Engineering Intern, Technip Energies | Summer 2023 <br>
-Mechanical Engineering Intern, Indo Autotech Limited | Summer 2022 <br>
-
-#### Awards and Honors
-- National Scholarship (awarded to 0.2% percent of students), the Ministery of China
-- 2nd Prize in Huawei Cup Mathematical Modeling Competition
+Mechanical Engineering Intern, Indo Autotech Limited | Summer 2022
 
