@@ -6,6 +6,13 @@ title: Join the Team
 
 We welcome motivated PhD, Master’s, and undergraduate researchers to join our lab. Our team is dedicated to pioneering advancements in machine learning, uncertainty quantification, and their applications in mechanical analysis & design,  materials science, and manufacturing. By joining us, you will have the opportunity to work on cutting-edge projects, collaborate with experts in the field, and contribute to impactful research. We look forward to your fresh perspectives and innovative ideas as we push the boundaries of engineering and science together.
 
+
+
+### Postdoctoral Researchers
+The SEAD Lab welcomes applications for postdoctoral positions at Viginia Tech. To apply, please email your CV, transcripts, and a short description of your research interest to Dr. Jie Chen at jiechen@vt.edu.
+
+
+
 ### Graduate Students
 
 **Qualified candidates will have**
