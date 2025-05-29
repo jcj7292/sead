@@ -47,6 +47,32 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.2514/6.2025-1955
+  title: Neural Optimization Machine for Design With Neural Network Based Objectives
+    and Constraints
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: AIAA SCITECH 2025 Forum
+  date: '2025-01-03'
+  link: https://doi.org/g9mnpq
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2514/6.2025-0822
+  title: Probabilistic Fatigue Life Prediction of AM-Built Alloy Using Physics-Guided
+    Neural Network
+  authors:
+  - Rakesh Balamurugan
+  - Jie Chen
+  - Changyu Meng
+  - Yongming Liu
+  publisher: AIAA SCITECH 2025 Forum
+  date: '2025-01-03'
+  link: https://doi.org/g9mnpr
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1103/prxenergy.3.023006
   title: Learning Molecular Mixture Property Using Chemistry-Aware Graph Neural Network
   authors:
