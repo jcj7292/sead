@@ -168,6 +168,20 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.48550/ARXIV.2408.16337
+  title: Do Graph Neural Networks Work for High Entropy Alloys?
+  authors:
+  - Hengrui Zhang
+  - Ruishu Huang
+  - Jie Chen
+  - James M. Rondinelli
+  - Wei Chen
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g9mnps
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.48550/arXiv.2402.17718
   title: 'Towards a Digital Twin Framework in Additive Manufacturing: Machine Learning
     and Bayesian Optimization for Time Series Process Optimization'
