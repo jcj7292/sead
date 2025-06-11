@@ -1,5 +1,5 @@
 ---
-title: Jun Li and Ko-Lin Wang joined the SEAD Lab
+title: SEAD Lab welcomes two new PhD students
 image: images/news/new-member.svg
 last_modified_at: ""
 excerpt: We are thrilled to have Jun and Ko-Lin joining our team.
