@@ -24,6 +24,9 @@ The Stochastic Engineering Analysis & Design (SEAD) Lab focuses on
 **2025-06** [Jinyang and Jun awarded travel fund for 2025 ASME IDETC-CIE conference](/2025/06/04/travel-award.html)
 
 **2025-04** [SEAD Lab presented at VT MII Conference](/2025/04/08/mii.html)
+
+**2025-02** [Jun Li awarded the Pratt Fellowship](/2025/02/06/jun.html)
+
  
 
 {%
