@@ -26,7 +26,7 @@ The Stochastic Engineering Analysis & Design (SEAD) Lab focuses on
   lookup="travel-award"
 %}
 
-**2025-06** [Jinyang and Jun awarded travel fund for 2025 ASME IDETC-CIE conference](/post/2025/06/04/travel-award.html)
+**2025-06** [Jinyang and Jun awarded travel fund for 2025 ASME IDETC-CIE conference](/2025/06/04/travel-award.html)
 
 {%
   include button.html
