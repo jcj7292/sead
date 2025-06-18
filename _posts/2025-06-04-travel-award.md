@@ -1,5 +1,5 @@
 ---
-title: Jinyang and Jun awarded travel fund for 2025 ASME IDETC-CIE conference
+title: Jinyang and Jun awarded travel fund for 2025 ASME IDETC-CIE Conference
 image: images/news/gpss-travel-award.svg
 last_modified_at: ""
 excerpt: Jinyang and Jun have been awarded travel funding through the Virginia Tech Graduate and Professional Student Senate (GPSS) Travel Fund Program to attend the 2025 ASME IDETC-CIE Conference. Congratulations!
