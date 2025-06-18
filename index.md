@@ -16,7 +16,7 @@ The Stochastic Engineering Analysis & Design (SEAD) Lab focuses on
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
 
-{% include post-excerpt.html %}
+{% include list.html data="posts" component="post-excerpt" %}
 
 {%
   include button.html
