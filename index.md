@@ -16,12 +16,14 @@ The Stochastic Engineering Analysis & Design (SEAD) Lab focuses on
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
 
-{% include list.html data="posts" component="post-excerpt-home-page" %}
+{%
+  include post-excerpt-home-page.html
+  lookup="travel-award"
+%}
 
 {%
   include post-excerpt-home-page.html
   lookup="travel-award"
-  lookup="mii"
 %}
 
 **2025-06** [Jinyang and Jun awarded travel fund for 2025 ASME IDETC-CIE conference](/post/2025/06/04/travel-award.html)
