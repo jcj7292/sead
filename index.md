@@ -21,6 +21,8 @@ The Stochastic Engineering Analysis & Design (SEAD) Lab focuses on
 {% include post-excerpt-home-page.html lookup="mii" %}
  -->
 
+**2025-04** [SEAD Lab Welcomes New PhD Student, Yisheng Lu](/2025/08/07/new-member.html)
+
 **2025-08** [Summer Visits and Invited Talk](2025/08/06/bnluic.html)
 
 **2025-06** [Jinyang and Jun awarded travel fund for IDETC-CIE Conference](/2025/06/04/travel-award.html)
