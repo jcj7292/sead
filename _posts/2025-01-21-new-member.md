@@ -6,5 +6,5 @@ excerpt: We are thrilled to have Jun and Ko-Lin joining our team.
 ---
 
 
-[Jun Li](/members/jun-li.html) and Ko-Lin Wang joined the SEAD Lab in January 2025.
+[Jun Li](/members/jun-li.html) and [Ko-Lin Wang](/members/kolin-wang.html) joined the SEAD Lab in January 2025.
 
