@@ -11,7 +11,7 @@ Darshan Gokulraj is an undergraduate student pursuing a Mechanical Engineering d
  
 #### Education
 
-B.Eng. in Mechanical Engineering, Huaqiao University, China, 2025-2029
+B.Eng. in Mechanical Engineering, Virginia Tech, US, 2025-2029
 
 
 #### Professional History
