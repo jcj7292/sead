@@ -2,7 +2,7 @@
 name: Darshan Gokulraj
 image: images/team/darshan-gokulraj.jpg
 description: Undergraduate Student
-role: undergraduate
+role: undergrad
 links:
   email: darshang25@vt.edu
 ---
