@@ -3,6 +3,7 @@ title: Four New SEAD Lab Publications in Journal of Mechanical Design and IDETC�
 image: images/news/new-papers.svg
 last_modified_at: ""
 excerpt: SEAD Lab celebrates one new journal article in the Journal of Mechanical Design and three published IDETC–CIE conference papers.
+---
 
 SEAD Lab is pleased to announce the publication of one JMD journal paper and three IDETC–CIE conference papers, marking a strong research milestone for the group.
 
