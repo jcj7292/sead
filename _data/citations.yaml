@@ -1,5 +1,101 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1115/1.4070206
+  title: Materials Discovery Using Uncertainty-Aware Constrained Bayesian Optimization
+    With Representation Learning of High-Dimensional Inputs
+  authors:
+  - Jie Chen
+  - Pengfei Ou
+  - Yuxin Chang
+  - Hengrui Zhang
+  - Xiao-Yan Li
+  - Edward H. Sargent
+  - Wei Chen
+  publisher: Journal of Mechanical Design
+  date: '2025-11-11'
+  link: https://doi.org/hbb8k4
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.triboint.2025.111300
+  title: A transient mixed-lubrication model of the plunger-bore interface inside
+    radial pumps
+  authors:
+  - Henry Soewardiman
+  - Shuangbiao Liu
+  - Jie Chen
+  - Blake Johnson
+  - David B. Pickens
+  - Yip-Wah Chung
+  - Wei Chen
+  - Nikhil Murthy
+  - Stephen P. Berkebile
+  - Q. Jane Wang
+  publisher: Tribology International
+  date: '2026-02-01'
+  link: https://doi.org/hbb8k5
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/detc2025-169062
+  title: Adaptive Uncertainty-Aware Deep Learning for Materials Discovery With High-Dimensional
+    Design Inputs
+  authors:
+  - Jie Chen
+  - Pengfei Ou
+  - Yuxin Chang
+  - Hengrui Zhang
+  - Xiao-Yan Li
+  - Edward H. Sargent
+  - Wei Chen
+  publisher: 'Volume 3B: 51st Design Automation Conference (DAC)'
+  date: '2025-08-17'
+  link: https://doi.org/hbb8k6
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/detc2025-169481
+  title: An Integer Approximation for the Discrete Fourier Transform Matrix for Fast
+    Time-Series Data Analysis
+  authors:
+  - Jinyang Li
+  - Jie Chen
+  publisher: 'Volume 3B: 51st Design Automation Conference (DAC)'
+  date: '2025-08-17'
+  link: https://doi.org/hbb8k7
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/detc2025-168645
+  title: Bayesian Hierarchical Models and Neural Networks for Defect-Based Fatigue
+    Prediction in Additive Manufacturing
+  authors:
+  - Jun Li
+  - Jie Chen
+  publisher: 'Volume 2A: 45th Computers and Information in Engineering Conference
+    (CIE)'
+  date: '2025-08-17'
+  link: https://doi.org/hbb8k8
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/1.4067270
+  title: 'A Digital Twin Framework Utilizing Machine Learning for Robust Predictive
+    Maintenance: Enhancing Tire Health Monitoring'
+  authors:
+  - Vispi Karkaria
+  - Jie Chen
+  - Christopher Luey
+  - Chase Siuta
+  - Damien Lim
+  - Robert Radulescu
+  - Wei Chen
+  publisher: Journal of Computing and Information Science in Engineering
+  date: '2025-04-03'
+  link: https://doi.org/hbb8k9
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1088/2632-2153/adc0e1
   title: Graph representation of local environments for learning high-entropy alloy
     properties
