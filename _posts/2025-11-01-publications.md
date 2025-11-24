@@ -7,7 +7,7 @@ excerpt: SEAD Lab celebrates one new journal article in the Journal of Mechanica
 
 SEAD Lab is pleased to announce the publication of one JMD journal paper and three IDETC–CIE conference papers, marking a strong research milestone for the group.
 
-- [Chen, Jie, Pengfei Ou, Yuxin Chang, Hengrui Zhang, Xiao-Yan Li, Edward H. Sargent, and Wei Chen. "**Materials Discovery Using Uncertainty-Aware Constrained Bayesian Optimization With Representation Learning of High-Dimensional Inputs**." Journal of Mechanical Design 148, no. 2 (2026): 021707.](https://asmedigitalcollection.asme.org/mechanicaldesign/article/148/2/021707/1225557/Materials-Discovery-Using-Uncertainty-Aware)
+- Chen, Jie, Pengfei Ou, Yuxin Chang, Hengrui Zhang, Xiao-Yan Li, Edward H. Sargent, and Wei Chen. "[**Materials Discovery Using Uncertainty-Aware Constrained Bayesian Optimization With Representation Learning of High-Dimensional Inputs**](https://asmedigitalcollection.asme.org/mechanicaldesign/article/148/2/021707/1225557/Materials-Discovery-Using-Uncertainty-Aware)." Journal of Mechanical Design 148, no. 2 (2026): 021707.
 
 - [Li, Jinyang, and Jie Chen. "**An Integer Approximation for the Discrete Fourier Transform Matrix for Fast Time-Series Data Analysis**." In International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, vol. 89237, p. V03BT03A019. American Society of Mechanical Engineers, 2025.](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2025/89237/V03BT03A019/1226082)
 
