@@ -21,6 +21,8 @@ The Stochastic Engineering Analysis & Design (SEAD) Lab focuses on
 {% include post-excerpt-home-page.html lookup="mii" %}
  -->
 
+**2025-11** [Pratt & Whitney Visits SEAD Lab to Explore AI-Driven Manufacturing Collaborations](2025/11/18/pw-visit.html)
+
 **2025-11** [Four New SEAD Lab Publications in Journal of Mechanical Design and IDETC–CIE Proceedings](2025/11/01/publications.html)
 
 **2025-10** [Jinyang Presented at Virginia Tech MADE Conference and VT Manufacturing Day](/2025/10/03/vtmade.html)
