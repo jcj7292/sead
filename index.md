@@ -25,9 +25,8 @@ The Stochastic Engineering Analysis & Design (SEAD) Lab focuses on
 
 **2025-10** [Jinyang Presented at Virginia Tech MADE Conference and VT Manufacturing Day](/2025/10/03/vtmade.html)
 
-**2025-08** [SEAD Lab Presented in ASME IDETC-CIE Conference](/2025/098/01/idetc-cie.html)
+**2025-08** [SEAD Lab Receives 4-VA Grant for AI4Materials Research](/2025/098/01/idetc-cie.html)
 
-**2025-08** [SEAD Lab Welcomes New PhD Student, Yisheng Lu](/2025/08/07/new-member.html)
 
 
 
