@@ -17,7 +17,3 @@ Bachelor of Technology in Mechanical Engineering, Vishwakarma Institute of Techn
 Project Trainee, Forbes Marshall Pvt. Ltd., India, 2023 <br>
 R&D Intern, SAJ Test Plant Pvt. Ltd., India, 2022
 
-#### Awards and Honors
-- National Scholarship (awarded to 0.2% percent of students), the Ministery of China
-- 2nd Prize in Huawei Cup Mathematical Modeling Competition
-
