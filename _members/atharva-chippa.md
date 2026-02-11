@@ -1,7 +1,7 @@
 ---
 name: Atharva Chippa
 image: images/team/atharva-chippa.jpeg
-description: Masters Student
+description: Master Student
 role: master
 links:
   linkedin: atharva-chippa
