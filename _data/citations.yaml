@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.triboint.2026.111817
+  title: 'Transient Mixed-EHL Analysis of the Plunger-Bore Interface in Radial Pumps:
+    Influence of Surface Deformation and Variable Interface Length'
+  authors:
+  - Henry Soewardiman
+  - Shuangbiao Liu
+  - Q. Jane Wang
+  - Jie Chen
+  - Blake Johnson
+  - David B Pickens
+  - Yip-Wah Chung
+  - Wei Chen
+  - Nikhil Murthy
+  - Stephen P. Berkebile
+  publisher: Tribology International
+  date: '2026-02-01'
+  link: https://doi.org/hbn728
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/advs.202522787
+  title: Rapid Design and Fabrication of Body Conformable Surfaces with Kirigami Cutting
+    and Machine Learning
+  authors:
+  - Jyotshna Bali
+  - Jinyang Li
+  - Jie chen
+  - Suyi Li
+  publisher: Advanced Science
+  date: '2026-02-10'
+  link: https://doi.org/hbp67s
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1115/1.4070206
   title: Materials Discovery Using Uncertainty-Aware Constrained Bayesian Optimization
     With Representation Learning of High-Dimensional Inputs
@@ -37,26 +71,6 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.triboint.2026.111817
-  title: 'Transient Mixed-EHL Analysis of the Plunger-Bore Interface in Radial Pumps:
-    Influence of Surface Deformation and Variable Interface Length'
-  authors:
-  - Henry Soewardiman
-  - Shuangbiao Liu
-  - Q. Jane Wang
-  - Jie Chen
-  - Blake Johnson
-  - David B Pickens
-  - Yip-Wah Chung
-  - Wei Chen
-  - Nikhil Murthy
-  - Stephen P. Berkebile
-  publisher: Tribology International
-  date: '2026-02-01'
-  link: https://doi.org/hbn728
-  orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1115/detc2025-169062
   title: Adaptive Uncertainty-Aware Deep Learning for Materials Discovery With High-Dimensional
     Design Inputs
