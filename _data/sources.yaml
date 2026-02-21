@@ -22,6 +22,8 @@
 # - id: doi:10.7554/eLife.32822
 #   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
+- id: doi:10.1016/j.triboint.2026.111817
+- id: doi:10.1002/advs.202522787
 - id: doi:10.1115/1.4070206
 - id: doi:10.1016/j.triboint.2025.111300
 - id: doi:10.1115/detc2025-169062
