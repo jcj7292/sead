@@ -18,8 +18,8 @@
   date: '2026-02-01'
   link: https://doi.org/hbn728
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/advs.202522787
   title: Rapid Design and Fabrication of Body Conformable Surfaces with Kirigami Cutting
     and Machine Learning
@@ -32,8 +32,8 @@
   date: '2026-02-10'
   link: https://doi.org/hbp67s
   orcid: 0000-0001-9772-765X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1115/1.4070206
   title: Materials Discovery Using Uncertainty-Aware Constrained Bayesian Optimization
     With Representation Learning of High-Dimensional Inputs
