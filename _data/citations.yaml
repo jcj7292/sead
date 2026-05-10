@@ -145,6 +145,18 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1115/ssdm2025-152313
+  title: 'Probabilistic Physics-Guided Machine Learning With Missing Data: Applications
+    in Additive Manufacturing'
+  authors:
+  - Jie Chen
+  - Yongming Liu
+  publisher: ASME 2025 Aerospace Structures, Structural Dynamics, and Materials Conference
+  date: '2025-05-05'
+  link: https://doi.org/hb3cht
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1103/PhysRevLett.134.148101
   title: Real-Time Visualization of Single Polymer Conformational Change in the Bulk
     State during Mechanical Deformation
