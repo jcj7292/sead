@@ -9,14 +9,4 @@ links:
   email: akshatp@vt.edu
 ---
 
-Akshat Prem graduated with a Bachelor of Science in Mechanical Engineering from Virginia Tech in December 2024. His research interest lies in design, simulation, and optimization, particularly in Finite Element Analysis (FEA), computational modeling, and product development. He joined the lab to explore Machine Learning applications in engineering and expand the scope of computational modeling for mechanical systems. Currently, he is a Research Assistant Volunteer, applying his technical skills to engineering research and innovation.
- 
-#### Education
-BS in Mechanical Engineering, Virginia Tech, Blacksburg, VA, 2020-2024
-
-#### Professional History
-Research Assistant, Virginia Tech | Present <br>
-Research Assistant, Virginia Tech | Fall 2023 <br>
-Mechanical Engineering Intern, Technip Energies | Summer 2023 <br>
-Mechanical Engineering Intern, Indo Autotech Limited | Summer 2022
-
+Akshat worked as a research assistant in the SEAD Lab for a year between gaining Bachelor's degree and beginning a Master's program at Virginia Tech Mechanical Engineering. His research focused on design against fatigue in metamaterials using finite element analysis and machine learning.
