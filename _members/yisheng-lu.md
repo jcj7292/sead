@@ -22,6 +22,7 @@ Research Assistant, NUS Environmental Research Institute, 2022–2024
 
 
 #### Awards and Honors
+- Mary Virginia Jones Mechanical Engineering Graduate Fellowship, Virginia Tech (2026)
 - National Scholarship, China (2018-2020, awarded twice)
 - Excellent Graduation Project of Bachelor's Degree, Huaqiao University (2022)
 
