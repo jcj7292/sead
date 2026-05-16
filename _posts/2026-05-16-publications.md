@@ -12,6 +12,7 @@ We developed a method for the design of high-dimensional materials by integratin
 - Jyotshna Bali, Jinyang Li, Jie Chen, and Suyi Li, [Rapid Design and Fabrication of Body Conformable Surfaces with Kirigami Cutting and Machine Learning](https://doi.org/10.1002/advs.202522787). <i>Advanced Science</i> 2026.
 <br>
 <br>
+
 We developed a method that adapts models trained on simulation data to experimental data while estimating predictive uncertainty. We show the effectiveness in high-throughput materials characterization. The method improves accuracy, detects out-of-distribution samples, and supports trustworthy ML-driven materials discovery.
 
 - Jie Chen, Timothy Long, Michael Wall, Todd Hufnagel, and Wei Chen. [Uncertainty aware machine learning for bridging simulation and experiment in high throughput materials characterization](https://www.nature.com/articles/s41598-026-51212-8). <i>Scientific Reports</i> 2026.
