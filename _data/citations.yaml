@@ -1,21 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.aei.2026.104776
+  title: High-dimensional design of kirigami patches metamaterials using physics-based
+    machine learning with uncertainty quantification
+  authors:
+  - Jinyang Li
+  - Jyotshna Bali
+  - Ko-Lin Wang
+  - Suyi Li
+  - Jie Chen
+  publisher: Advanced Engineering Informatics
+  date: '2026-09-01'
+  link: https://doi.org/hb4k9b
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.triboint.2026.111817
-  title: 'Transient Mixed-EHL Analysis of the Plunger-Bore Interface in Radial Pumps:
-    Influence of Surface Deformation and Variable Interface Length'
+  title: 'Transient mixed-EHL analysis of the plunger-bore interface in radial pumps:
+    Influence of surface deformation and variable interface length'
   authors:
   - Henry Soewardiman
   - Shuangbiao Liu
   - Q. Jane Wang
   - Jie Chen
   - Blake Johnson
-  - David B Pickens
+  - David B. Pickens
   - Yip-Wah Chung
   - Wei Chen
   - Nikhil Murthy
   - Stephen P. Berkebile
   publisher: Tribology International
-  date: '2026-02-01'
+  date: '2026-07-01'
   link: https://doi.org/hbn728
   orcid: 0000-0001-9772-765X
   plugin: sources.py
