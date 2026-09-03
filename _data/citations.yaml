@@ -35,6 +35,21 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41598-026-51212-8
+  title: Uncertainty aware machine learning for bridging simulation and experiment
+    in high throughput materials characterization
+  authors:
+  - Jie Chen
+  - Timothy Long
+  - Michael Wall
+  - Todd Hufnagel
+  - Wei Chen
+  publisher: Scientific Reports
+  date: '2026-05-06'
+  link: https://doi.org/hchmsk
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/advs.202522787
   title: Rapid Design and Fabrication of Body Conformable Surfaces with Kirigami Cutting
     and Machine Learning
@@ -86,6 +101,18 @@
   orcid: 0000-0001-9772-765X
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.2139/ssrn.7239479
+  title: Calibrated and Operational Uncertainty Quantification in Multi-Fidelity Neural
+    Networks with Engineering Mechanics Applications
+  authors:
+  - Jun Li
+  - Jie Chen
+  publisher: Elsevier BV
+  date: '2026-01-01'
+  link: https://doi.org/hchmsm
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1115/detc2025-169062
   title: Adaptive Uncertainty-Aware Deep Learning for Materials Discovery With High-Dimensional
     Design Inputs
