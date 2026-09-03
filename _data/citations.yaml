@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.26599/nr.2026.94908949
+  title: "The next generation of lipid nanoparticles for\n                    <i>in\
+    \ vivo</i>\n                    engineering and targeted delivery"
+  authors:
+  - Penghui Zhao
+  - Zerui Zhou
+  - Jie Chen
+  - Wei Sun
+  - Zhenhua Tian
+  - Wujin Sun
+  publisher: Nano Research
+  date: '2026-10-01'
+  link: https://doi.org/hchmsq
+  orcid: 0000-0001-9772-765X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.aei.2026.104776
   title: High-dimensional design of kirigami patches metamaterials using physics-based
     machine learning with uncertainty quantification
