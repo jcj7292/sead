@@ -109,3 +109,8 @@
 - id: doi:10.36001/phmconf.2019.v11i1.917
 - id: doi:10.36001/phmconf.2019.v11i1.817
 - id: doi:10.1016/j.ijfatigue.2018.01.019
+
+- id: doi:10.1016/j.aei.2026.104776
+  image: /images/publications/kirigami.svg
+  group:
+    - featured
