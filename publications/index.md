@@ -19,6 +19,7 @@ nav:
 
 ## Recent Highlights
 
+{% include citation.html lookup="doi:10.1016/j.aei.2026.104776" style="rich" %}
 {% include citation.html lookup="doi:10.1016/j.addma.2024.104216" style="rich" %}
 {% include citation.html lookup="doi:10.1073/pnas.2309240120" style="rich" %}
 {% include citation.html lookup="doi:10.1016/j.cma.2021.114490" style="rich" %}
