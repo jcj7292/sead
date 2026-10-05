@@ -4,6 +4,7 @@ image: images/team/ranhee-yoon.jpg
 role: phd
 description: PhD Student
 links:
+  email: ranheey@vt.edu
   google-scholar: DoHhSSgAAAAJ
 ---
 
