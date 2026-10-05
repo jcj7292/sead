@@ -8,6 +8,8 @@ links:
   google-scholar: DoHhSSgAAAAJ
 ---
 
+<div markdown="1" style="overflow: hidden;">
+
 Ranhee Yoon is a Ph.D. student in Mechanical Engineering at Virginia Tech and a member of the SEAD Lab. Prior to joining Virginia Tech, she conducted research at the Korea Railroad Research Institute (KRRI), where she worked on railway and transportation systems, including hyperloop vehicle dynamics, magnetorheological suspension systems, active steering bogies, and rail sensing technologies. At Virginia Tech, her research has focused on autonomous inspection and health monitoring of power line conductors using robotics, computer vision, and machine learning. Her research interests include machine learning, computer vision, robotics, automation, and intelligent monitoring of critical infrastructure and complex engineered systems.
 
 #### Education
@@ -27,3 +29,5 @@ Research Assistant / Graduate Research Assistant, Korea Railroad Research Instit
 - Mary Virginia Jones Mechanical Engineering Graduate Fellowship, Virginia Tech (2026)
 - Best Paper & Presentation Awards, Asian Conference on Railway Engineering and Transportation (2018, 2021)
 - Best Paper Presentation Award, Korean Society for Railway (2017, 2021)
+
+</div>
