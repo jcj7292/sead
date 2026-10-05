@@ -21,6 +21,8 @@ The SEAD Lab focuses on
 {% include post-excerpt-home-page.html lookup="mii" %}
  -->
 
+**2026-10** [SEAD Lab Presented in Manufacturing Day at Virginia Tech](/2026/10/02/mfgday.html)
+
 **2026-05** [Three New Publications from SEAD Lab](/2026/05/16/publications.html)
 
 **2026-04** [SEAD Lab Celebrates Recent Awards](/2026/04/01/awards.html)
